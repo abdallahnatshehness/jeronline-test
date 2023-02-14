@@ -1,0 +1,194 @@
+{
+  "uid" : "15a55696be06c40b",
+  "name" : "Fill valid values except Family Name field, then click continue button to check the process,",
+  "fullName" : "Testing confirmation for structure page: Fill valid values except Family Name field, then click continue button to check the process,",
+  "historyId" : "aa0a7e35dc2baf39dc161249a047011c",
+  "time" : {
+    "start" : 1675983272659,
+    "stop" : 1675983273703,
+    "duration" : 1044
+  },
+  "description" : "it should give an alert message and not continue to second page",
+  "descriptionHtml" : "<p>it should give an alert message and not continue to second page</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "it should give an alert message and not continue to second page",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I navigate to \"ConfirmationForStructure\" page",
+      "time" : {
+        "start" : 1675983272659,
+        "stop" : 1675983272660,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When I write \"דרוויש\" in \"שם פרטי\"",
+      "time" : {
+        "start" : 1675983272660,
+        "stop" : 1675983272741,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And I write \"Qaimari\" in \"שם משפחה\"",
+      "time" : {
+        "start" : 1675983272741,
+        "stop" : 1675983272825,
+        "duration" : 84
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And I write \"039886544\" in \"מספר ת.ז.\"",
+      "time" : {
+        "start" : 1675983272825,
+        "stop" : 1675983272911,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And I write \"052-5768719\" in \"טלפון נייד\"",
+      "time" : {
+        "start" : 1675983272911,
+        "stop" : 1675983273232,
+        "duration" : 321
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And I write \"02-6287296\" in \"טלפון קווי\"",
+      "time" : {
+        "start" : 1675983273232,
+        "stop" : 1675983273526,
+        "duration" : 294
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And I write \"darweeshq@ness-tech.co.il\" in \"דוא\"ל\"",
+      "time" : {
+        "start" : 1675983273526,
+        "stop" : 1675983273633,
+        "duration" : 107
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And I click on \"המשך\"",
+      "time" : {
+        "start" : 1675983273633,
+        "stop" : 1675983273679,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then Dialog should not be displayed with \"לצורך המשך מילוי הטופס\"",
+      "time" : {
+        "start" : 1675983273680,
+        "stop" : 1675983273703,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 9,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "Blocker:"
+  }, {
+    "name" : "feature",
+    "value" : "Testing confirmation for structure page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Blocker:" ]
+  },
+  "source" : "15a55696be06c40b.json",
+  "parameterValues" : [ ]
+}

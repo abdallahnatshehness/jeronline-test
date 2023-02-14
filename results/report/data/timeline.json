@@ -1,0 +1,5297 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.14 ",
+    "uid" : "2f8eb1874871893f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289654107,
+      "stop" : 1676289654204,
+      "duration" : 97
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.2 ",
+    "uid" : "6692418ec969607a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676289651552,
+      "stop" : 1676289651861,
+      "duration" : 309
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט!" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.14 ",
+    "uid" : "a147cf21672090d4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983476445,
+      "stop" : 1675983476567,
+      "duration" : 122
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.11 ",
+    "uid" : "599ba157d8ac3334",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983476062,
+      "stop" : 1675983476187,
+      "duration" : 125
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.11 ",
+    "uid" : "afbd91dcc2ee6bf1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983243100,
+      "stop" : 1675983243267,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "parameters" : [ "1234_56789" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.6 ",
+    "uid" : "759b857636ff3785",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983475301,
+      "stop" : 1675983475439,
+      "duration" : 138
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט%" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.4 ",
+    "uid" : "f3b43d3283ec5dbb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983264619,
+      "stop" : 1675983264754,
+      "duration" : 135
+    },
+    "flaky" : false,
+    "parameters" : [ "user.name@example.com" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.3 ",
+    "uid" : "3c81689d72504669",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983495118,
+      "stop" : 1675983495816,
+      "duration" : 698
+    },
+    "flaky" : false,
+    "parameters" : [ "يت-تننتاتنا" ]
+  }, {
+    "name" : "Header check if displayed",
+    "uid" : "2b89506f2d46caa9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983470425,
+      "stop" : 1675983474459,
+      "duration" : 4034
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.29 ",
+    "uid" : "956b0434f6ecfd5b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983478455,
+      "stop" : 1675983478585,
+      "duration" : 130
+    },
+    "flaky" : false,
+    "parameters" : [ "432اتتاלחךל" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.10 ",
+    "uid" : "fe75239e5e5ce529",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983475928,
+      "stop" : 1675983476061,
+      "duration" : 133
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט+" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.6 ",
+    "uid" : "5882dff58609082b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983514341,
+      "stop" : 1675983514479,
+      "duration" : 138
+    },
+    "flaky" : false,
+    "parameters" : [ "user+name@example.com" ]
+  }, {
+    "name" : "test  Postal Code for valid values -- @1.3 ",
+    "uid" : "52df79b20e809571",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983522431,
+      "stop" : 1675983522535,
+      "duration" : 104
+    },
+    "flaky" : false,
+    "parameters" : [ "876543" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.2 ",
+    "uid" : "155f04fe7a1866c8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983531735,
+      "stop" : 1675983531983,
+      "duration" : 248
+    },
+    "flaky" : false,
+    "parameters" : [ "ab123456" ]
+  }, {
+    "name" : "Fill valid values except Land-line Number field, then click continue button to check the process,",
+    "uid" : "40dc7bb62d0ac47d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983277473,
+      "stop" : 1675983278630,
+      "duration" : 1157
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.1 ",
+    "uid" : "8cbbd42bb7ba86fb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983493763,
+      "stop" : 1675983494647,
+      "duration" : 884
+    },
+    "flaky" : false,
+    "parameters" : [ "dd-7133772" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.22 ",
+    "uid" : "82aee1156cdb7903",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983526397,
+      "stop" : 1675983526564,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.9 ",
+    "uid" : "6dbd2759c1641967",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983475758,
+      "stop" : 1675983475927,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט*" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.29 ",
+    "uid" : "3440e554fd9ae456",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983527624,
+      "stop" : 1675983527805,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "432اتتاלחךל" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.7 ",
+    "uid" : "164c44e1ec7bb6af",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983482123,
+      "stop" : 1675983482319,
+      "duration" : 196
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט^" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.5 ",
+    "uid" : "193a610fbde61b0b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983499802,
+      "stop" : 1675983500235,
+      "duration" : 433
+    },
+    "flaky" : false,
+    "parameters" : [ "053-12" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.3 ",
+    "uid" : "6b358231f6534ad5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983474873,
+      "stop" : 1675983475010,
+      "duration" : 137
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט@" ]
+  }, {
+    "name" : "Fill valid values in all fields and click continue button to check the process,",
+    "uid" : "ee828cd2fc7a2e0e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983270154,
+      "stop" : 1675983271620,
+      "duration" : 1466
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.2 ",
+    "uid" : "bedac409b0e04c8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983490449,
+      "stop" : 1675983490629,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "000000009" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.31 ",
+    "uid" : "131015b0d3951b6d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983238784,
+      "stop" : 1675983238969,
+      "duration" : 185
+    },
+    "flaky" : false,
+    "parameters" : [ "234324324" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.6 ",
+    "uid" : "1bccc8f38f7f14eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676289652889,
+      "stop" : 1676289653260,
+      "duration" : 371
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט%" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.7 ",
+    "uid" : "50efaba9ae2e887d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983532961,
+      "stop" : 1675983533158,
+      "duration" : 197
+    },
+    "flaky" : false,
+    "parameters" : [ "1234 56789" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.10 ",
+    "uid" : "a10f4d28cf08e0e2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983533530,
+      "stop" : 1675983533803,
+      "duration" : 273
+    },
+    "flaky" : false,
+    "parameters" : [ "12a3456789" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.12 ",
+    "uid" : "e3be6f905a9fa174",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983512448,
+      "stop" : 1675983512640,
+      "duration" : 192
+    },
+    "flaky" : false,
+    "parameters" : [ "leadingdot@.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.31 ",
+    "uid" : "8c7a846024f6d5b3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983520369,
+      "stop" : 1675983520645,
+      "duration" : 276
+    },
+    "flaky" : false,
+    "parameters" : [ "234324324" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.31 ",
+    "uid" : "b6bc2d3b671e288",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983478725,
+      "stop" : 1675983478849,
+      "duration" : 124
+    },
+    "flaky" : false,
+    "parameters" : [ "234324324" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.5 ",
+    "uid" : "8b4ef7cb8c8dcf41",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983247336,
+      "stop" : 1675983247923,
+      "duration" : 587
+    },
+    "flaky" : false,
+    "parameters" : [ "053-34876556734567" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.35 ",
+    "uid" : "ae68a1aa91ec0a0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983528771,
+      "stop" : 1675983528952,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/()" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.4 ",
+    "uid" : "165614160733a2ea",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983254867,
+      "stop" : 1675983255581,
+      "duration" : 714
+    },
+    "flaky" : false,
+    "parameters" : [ "07-3457654387646734567" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.37 ",
+    "uid" : "1fdb1c8591033154",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983240011,
+      "stop" : 1675983240277,
+      "duration" : 266
+    },
+    "flaky" : false,
+    "parameters" : [ "חכלכיעחלך" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.40 ",
+    "uid" : "1ae8a627063b43f3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983522035,
+      "stop" : 1675983522207,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ#" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.2 ",
+    "uid" : "2e6d6173c285e6f1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983233531,
+      "stop" : 1675983233715,
+      "duration" : 184
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט!" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.17 ",
+    "uid" : "7bb032c42e45b468",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983476826,
+      "stop" : 1675983476947,
+      "duration" : 121
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "Footer check if displayed",
+    "uid" : "c8702d3db3fa4712",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289651120,
+      "stop" : 1676289651122,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.39 ",
+    "uid" : "7ffeaab9416294c6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983240456,
+      "stop" : 1675983240627,
+      "duration" : 171
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח@" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.10 ",
+    "uid" : "76c06f7076106453",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983514865,
+      "stop" : 1675983514990,
+      "duration" : 125
+    },
+    "flaky" : false,
+    "parameters" : [ "user@sub-domain.example.com" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.37 ",
+    "uid" : "a52bb2796c7f5b45",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983487778,
+      "stop" : 1675983488043,
+      "duration" : 265
+    },
+    "flaky" : false,
+    "parameters" : [ "חכלכיעחלך" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.5 ",
+    "uid" : "16ec7de3a759b40f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983508136,
+      "stop" : 1675983508719,
+      "duration" : 583
+    },
+    "flaky" : false,
+    "parameters" : [ "053-12" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.9 ",
+    "uid" : "bcbf1d525639e70a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983491873,
+      "stop" : 1675983492052,
+      "duration" : 179
+    },
+    "flaky" : false,
+    "parameters" : [ "1234ab56" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.17 ",
+    "uid" : "96b571d711a3c5ef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983517901,
+      "stop" : 1675983518066,
+      "duration" : 165
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+    "uid" : "c04191abb55207d1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983257462,
+      "stop" : 1675983258187,
+      "duration" : 725
+    },
+    "flaky" : false,
+    "parameters" : [ "123-تننتاتنا" ]
+  }, {
+    "name" : "test  passport number input for valid values -- @1.1 ",
+    "uid" : "fc505db74b796a9b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983535106,
+      "stop" : 1675983535211,
+      "duration" : 105
+    },
+    "flaky" : false,
+    "parameters" : [ "319076618" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.6 ",
+    "uid" : "8841778496263215",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983242187,
+      "stop" : 1675983242367,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "12341234567" ]
+  }, {
+    "name" : "First name field test with valid values -- @1.2 ",
+    "uid" : "4af2d8c9c9c3faa6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983480592,
+      "stop" : 1675983480733,
+      "duration" : 141
+    },
+    "flaky" : false,
+    "parameters" : [ "דגכככככככככ" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.18 ",
+    "uid" : "eb8ef25ae80723e7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983518067,
+      "stop" : 1675983518238,
+      "duration" : 171
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.4 ",
+    "uid" : "c5eccf75a8f73e02",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983481523,
+      "stop" : 1675983481717,
+      "duration" : 194
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט#" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.7 ",
+    "uid" : "bd36a87cec2eb753",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983264993,
+      "stop" : 1675983265109,
+      "duration" : 116
+    },
+    "flaky" : false,
+    "parameters" : [ "user.nametag@example.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.30 ",
+    "uid" : "2391994ab83a4797",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983520195,
+      "stop" : 1675983520368,
+      "duration" : 173
+    },
+    "flaky" : false,
+    "parameters" : [ "כגד09לחi09تهךח" ]
+  }, {
+    "name" : "First name field test with valid values -- @1.3 ",
+    "uid" : "2c5ee9de2bb91ab4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983233161,
+      "stop" : 1675983233265,
+      "duration" : 104
+    },
+    "flaky" : false,
+    "parameters" : [ "םיעןחפםעיח" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.2 ",
+    "uid" : "478b7549f126ef49",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983494648,
+      "stop" : 1675983495117,
+      "duration" : 469
+    },
+    "flaky" : false,
+    "parameters" : [ "053-oiخهع" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.37 ",
+    "uid" : "218f7a6befb81708",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983479663,
+      "stop" : 1675983479949,
+      "duration" : 286
+    },
+    "flaky" : false,
+    "parameters" : [ "חכלכיעחלך" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.11 ",
+    "uid" : "6e5c2564a730f63c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983235218,
+      "stop" : 1675983235396,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.31 ",
+    "uid" : "c4dfca1ce9d155eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983231143,
+      "stop" : 1675983231273,
+      "duration" : 130
+    },
+    "flaky" : false,
+    "parameters" : [ "234324324" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+    "uid" : "db3ab333bc9b1a8c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983229507,
+      "stop" : 1675983229627,
+      "duration" : 120
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.3 ",
+    "uid" : "dba37693eda486b4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983241583,
+      "stop" : 1675983241750,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "parameters" : [ "000000018" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.5 ",
+    "uid" : "53e8a24b35b1122e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983258768,
+      "stop" : 1675983259342,
+      "duration" : 574
+    },
+    "flaky" : false,
+    "parameters" : [ "053-12" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.13 ",
+    "uid" : "4d8777ee1b53437d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983517214,
+      "stop" : 1675983517382,
+      "duration" : 168
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.32 ",
+    "uid" : "d3260f70ef2c55f0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983238970,
+      "stop" : 1675983239148,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.38 ",
+    "uid" : "89814ff632425d4e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983240278,
+      "stop" : 1675983240455,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי!" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.1 ",
+    "uid" : "51e3877a87f04308",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983264265,
+      "stop" : 1675983264379,
+      "duration" : 114
+    },
+    "flaky" : false,
+    "parameters" : [ "user@example.com" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+    "uid" : "6ee581351d799389",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983234659,
+      "stop" : 1675983234844,
+      "duration" : 185
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט&" ]
+  }, {
+    "name" : "change the page language to arabic and test first name input in the invalid case",
+    "uid" : "2972533d680249bc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983405981,
+      "stop" : 1675983410792,
+      "duration" : 4811
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.3 ",
+    "uid" : "c7e0c7cc65ecee0f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983515431,
+      "stop" : 1675983515600,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט@" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.11 ",
+    "uid" : "84a13a3c3a4fda35",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983533804,
+      "stop" : 1675983534058,
+      "duration" : 254
+    },
+    "flaky" : false,
+    "parameters" : [ "12b3456789" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.7 ",
+    "uid" : "f35fd63a49fb59b3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983491510,
+      "stop" : 1675983491696,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "parameters" : [ "12-3456789" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.36 ",
+    "uid" : "d1a27661c4f3855c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983487599,
+      "stop" : 1675983487777,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת12" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.34 ",
+    "uid" : "74e670c338f67655",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983239330,
+      "stop" : 1675983239518,
+      "duration" : 188
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "test  home number input for valid values -- @1.1 ",
+    "uid" : "1fe3530647d438ee",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983529835,
+      "stop" : 1675983529941,
+      "duration" : 106
+    },
+    "flaky" : false,
+    "parameters" : [ "76543" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.1 ",
+    "uid" : "eeff6c06a416c183",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983490202,
+      "stop" : 1675983490448,
+      "duration" : 246
+    },
+    "flaky" : false,
+    "parameters" : [ "000000000" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.4 ",
+    "uid" : "8c178810bc2a0ab9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983261382,
+      "stop" : 1675983261562,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "user@.missingtld." ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.8 ",
+    "uid" : "9f58428f25c886e4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983262288,
+      "stop" : 1675983262484,
+      "duration" : 196
+    },
+    "flaky" : false,
+    "parameters" : [ "#@%^%#$@#$@#.com" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.19 ",
+    "uid" : "1aac526283ebf499",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983477071,
+      "stop" : 1675983477193,
+      "duration" : 122
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.22 ",
+    "uid" : "92ea9be8775e52a5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983477497,
+      "stop" : 1675983477623,
+      "duration" : 126
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.40 ",
+    "uid" : "ed0f196404ae879",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983488411,
+      "stop" : 1675983488614,
+      "duration" : 203
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ#" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.14 ",
+    "uid" : "4eaef02a686929ef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983483497,
+      "stop" : 1675983483678,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.17 ",
+    "uid" : "628f4d267d99811f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983236292,
+      "stop" : 1675983236476,
+      "duration" : 184
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "change the page language to arabic and test first name input in the invalid case",
+    "uid" : "c888e2e6755a08a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983634320,
+      "stop" : 1675983639480,
+      "duration" : 5160
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.3 ",
+    "uid" : "b117eb42761a8e9a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983490630,
+      "stop" : 1675983490822,
+      "duration" : 192
+    },
+    "flaky" : false,
+    "parameters" : [ "000000018" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.15 ",
+    "uid" : "9bd69f0d2dfb7da8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983534836,
+      "stop" : 1675983535105,
+      "duration" : 269
+    },
+    "flaky" : false,
+    "parameters" : [ "12f3456789" ]
+  }, {
+    "name" : "test for search dropdown",
+    "uid" : "369bd73b445fdc1c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983535598,
+      "stop" : 1675983536170,
+      "duration" : 572
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.6 ",
+    "uid" : "7d9591d8b80c6ea6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983491310,
+      "stop" : 1675983491509,
+      "duration" : 199
+    },
+    "flaky" : false,
+    "parameters" : [ "12341234567" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.16 ",
+    "uid" : "358fc9a3ee20f6f8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983493111,
+      "stop" : 1675983493289,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "12d3456789" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.1 ",
+    "uid" : "57666795668f0993",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983505620,
+      "stop" : 1675983506222,
+      "duration" : 602
+    },
+    "flaky" : false,
+    "parameters" : [ "dd-1" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.13 ",
+    "uid" : "428b21b1fe147909",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983492577,
+      "stop" : 1675983492750,
+      "duration" : 173
+    },
+    "flaky" : false,
+    "parameters" : [ "12a3456789" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.5 ",
+    "uid" : "d6d064161c3cc6f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983234098,
+      "stop" : 1675983234280,
+      "duration" : 182
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט$" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.5 ",
+    "uid" : "af1c30b7b39803fa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983515779,
+      "stop" : 1675983515977,
+      "duration" : 198
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט$" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.14 ",
+    "uid" : "b7e9e89808a00dc1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983235744,
+      "stop" : 1675983235939,
+      "duration" : 195
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.14 ",
+    "uid" : "e69928479a38c7ff",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983263530,
+      "stop" : 1675983263719,
+      "duration" : 189
+    },
+    "flaky" : false,
+    "parameters" : [ "email.with!symbol@com.com" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.16 ",
+    "uid" : "3bc1a9c75443e00c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983513398,
+      "stop" : 1675983513693,
+      "duration" : 295
+    },
+    "flaky" : false,
+    "parameters" : [ "email.with_underscore@com.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.27 ",
+    "uid" : "db9343d08f5051e9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983519655,
+      "stop" : 1675983519829,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.39 ",
+    "uid" : "f1d2dd2f36ea2eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983488237,
+      "stop" : 1675983488410,
+      "duration" : 173
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח@" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+    "uid" : "551556844553ca87",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983482319,
+      "stop" : 1675983482542,
+      "duration" : 223
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.40 ",
+    "uid" : "e0865670e71af8a1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983232761,
+      "stop" : 1675983232951,
+      "duration" : 190
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ#" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.35 ",
+    "uid" : "a5b403b0ede8e065",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983239519,
+      "stop" : 1675983239834,
+      "duration" : 315
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/()" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.5 ",
+    "uid" : "3ac23c50c2288762",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983491124,
+      "stop" : 1675983491307,
+      "duration" : 183
+    },
+    "flaky" : false,
+    "parameters" : [ "ab123456" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.3 ",
+    "uid" : "1b969a11af867941",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983233715,
+      "stop" : 1675983233903,
+      "duration" : 188
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט@" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.2 ",
+    "uid" : "d35c770dab2e19f2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983241403,
+      "stop" : 1675983241582,
+      "duration" : 179
+    },
+    "flaky" : false,
+    "parameters" : [ "000000009" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.12 ",
+    "uid" : "82c7c66880e8a8a1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983524684,
+      "stop" : 1675983524850,
+      "duration" : 166
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.7 ",
+    "uid" : "2da5ed8b618aabea",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983523793,
+      "stop" : 1675983523965,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט^" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.8 ",
+    "uid" : "408a718b625a55bf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983514610,
+      "stop" : 1675983514738,
+      "duration" : 128
+    },
+    "flaky" : false,
+    "parameters" : [ "user@subdomain.example.com" ]
+  }, {
+    "name" : "unit test to choose id type - ID NUMBER - -- @1.3 ",
+    "uid" : "aac9b1612e1d789c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983489826,
+      "stop" : 1675983490201,
+      "duration" : 375
+    },
+    "flaky" : false,
+    "parameters" : [ "ת.ז." ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.11 ",
+    "uid" : "915c77f553b809dd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983512251,
+      "stop" : 1675983512447,
+      "duration" : 196
+    },
+    "flaky" : false,
+    "parameters" : [ "two@@missingatsigns.com" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.6 ",
+    "uid" : "8071a5486fff6ccb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983234281,
+      "stop" : 1675983234465,
+      "duration" : 184
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט%" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.4 ",
+    "uid" : "a6de655868c7883b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983515601,
+      "stop" : 1675983515778,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט#" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.9 ",
+    "uid" : "8d02f175a713c45c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983242715,
+      "stop" : 1675983242895,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "1234ab56" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.32 ",
+    "uid" : "3ba4676644b84e10",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983231274,
+      "stop" : 1675983231415,
+      "duration" : 141
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.17 ",
+    "uid" : "723907deb4d0d957",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983493290,
+      "stop" : 1675983493462,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "12e3456789" ]
+  }, {
+    "name" : "Mobile phone field test with valid values -- @1.2 ",
+    "uid" : "79b084772aeebe07",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983251598,
+      "stop" : 1675983252132,
+      "duration" : 534
+    },
+    "flaky" : false,
+    "parameters" : [ "050-6393648" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.4 ",
+    "uid" : "e0da01453e107bfa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983241751,
+      "stop" : 1675983242009,
+      "duration" : 258
+    },
+    "flaky" : false,
+    "parameters" : [ "2345" ]
+  }, {
+    "name" : "test to choose id type - PASSPORT NUMBER - -- @1.1 ",
+    "uid" : "a0cd3c37be91435f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983530245,
+      "stop" : 1675983530652,
+      "duration" : 407
+    },
+    "flaky" : false,
+    "parameters" : [ "דרכון" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+    "uid" : "6da12a92ff87e2db",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983476947,
+      "stop" : 1675983477070,
+      "duration" : 123
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.16 ",
+    "uid" : "1be777cda60b63e5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983476687,
+      "stop" : 1675983476818,
+      "duration" : 131
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.15 ",
+    "uid" : "9bcdac1d36d39b9d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983525191,
+      "stop" : 1675983525363,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+    "uid" : "1384eb4bc15c9ff9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983239149,
+      "stop" : 1675983239329,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.19 ",
+    "uid" : "863b903a85cb3fcb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983484417,
+      "stop" : 1675983484589,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.31 ",
+    "uid" : "f6c601a4f420ee3b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983486585,
+      "stop" : 1675983486781,
+      "duration" : 196
+    },
+    "flaky" : false,
+    "parameters" : [ "234324324" ]
+  }, {
+    "name" : "Fill valid values except First Name field, then click continue button to check the process,",
+    "uid" : "8a3abfa19b4471b6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983540826,
+      "stop" : 1675983545451,
+      "duration" : 4625
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.7 ",
+    "uid" : "8d72403cd40912c7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983475439,
+      "stop" : 1675983475590,
+      "duration" : 151
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט^" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.6 ",
+    "uid" : "2d2c2e724e9b56f2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983481927,
+      "stop" : 1675983482122,
+      "duration" : 195
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט%" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.11 ",
+    "uid" : "d21b2b8228ba05e5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983516851,
+      "stop" : 1675983517026,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.15 ",
+    "uid" : "db2040a7beb1692",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983492933,
+      "stop" : 1675983493110,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "12c3456789" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.36 ",
+    "uid" : "6e4a03e449a8d1e5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983521353,
+      "stop" : 1675983521521,
+      "duration" : 168
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת12" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.1 ",
+    "uid" : "69cec80edec0ad71",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983252902,
+      "stop" : 1675983253668,
+      "duration" : 766
+    },
+    "flaky" : false,
+    "parameters" : [ "dd-7133772" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+    "uid" : "8e874ffc828ce095",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983484224,
+      "stop" : 1675983484416,
+      "duration" : 192
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.24 ",
+    "uid" : "4db4b73e9e452250",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983230259,
+      "stop" : 1675983230373,
+      "duration" : 114
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.3 ",
+    "uid" : "9d6f7e394bef29da",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983513925,
+      "stop" : 1675983514055,
+      "duration" : 130
+    },
+    "flaky" : false,
+    "parameters" : [ "user.name@example.co.il" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.13 ",
+    "uid" : "80e1d23b611f17de",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983512641,
+      "stop" : 1675983512902,
+      "duration" : 261
+    },
+    "flaky" : false,
+    "parameters" : [ ".leadingdot@com.com" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.29 ",
+    "uid" : "9c1bc4e8bbdb65f8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983238435,
+      "stop" : 1675983238599,
+      "duration" : 164
+    },
+    "flaky" : false,
+    "parameters" : [ "432اتتاלחךל" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.13 ",
+    "uid" : "60840d1808e5c4ec",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983476317,
+      "stop" : 1675983476444,
+      "duration" : 127
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.15 ",
+    "uid" : "8d614427d1706833",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983517549,
+      "stop" : 1675983517726,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.1 ",
+    "uid" : "4da354593e53971a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983514991,
+      "stop" : 1675983515248,
+      "duration" : 257
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט12" ]
+  }, {
+    "name" : "Land-line phone field test with valid values -- @1.2 ",
+    "uid" : "5b9a17b8f785c833",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983509483,
+      "stop" : 1675983510185,
+      "duration" : 702
+    },
+    "flaky" : false,
+    "parameters" : [ "073-7383632" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.1 ",
+    "uid" : "f303a644437d45f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983244603,
+      "stop" : 1675983245454,
+      "duration" : 851
+    },
+    "flaky" : false,
+    "parameters" : [ "dd-7133772" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.2 ",
+    "uid" : "2820773aafaccfed",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983253669,
+      "stop" : 1675983254282,
+      "duration" : 613
+    },
+    "flaky" : false,
+    "parameters" : [ "053-oiخهع" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.15 ",
+    "uid" : "6cfd4d4047085b0f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983235940,
+      "stop" : 1675983236114,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.6 ",
+    "uid" : "13f62170461b3eb6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983532651,
+      "stop" : 1675983532960,
+      "duration" : 309
+    },
+    "flaky" : false,
+    "parameters" : [ "1234ab56" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.5 ",
+    "uid" : "49b14774b507c69a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983481718,
+      "stop" : 1675983481926,
+      "duration" : 208
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט$" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.32 ",
+    "uid" : "3b3878eca328359b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983478850,
+      "stop" : 1675983478976,
+      "duration" : 126
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.14 ",
+    "uid" : "a4024d33f2c74d1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983525016,
+      "stop" : 1675983525190,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.10 ",
+    "uid" : "7181a9cf0f3535c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983512063,
+      "stop" : 1675983512250,
+      "duration" : 187
+    },
+    "flaky" : false,
+    "parameters" : [ "missingdot@.com" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.22 ",
+    "uid" : "e88e47c8eb47efa5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983484950,
+      "stop" : 1675983485123,
+      "duration" : 173
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.25 ",
+    "uid" : "7195af30840ddad1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983519315,
+      "stop" : 1675983519483,
+      "duration" : 168
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "Fill valid values except I.D. no. field, then click continue button to check the process,",
+    "uid" : "a1dd310cd354ea50",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983273704,
+      "stop" : 1675983274724,
+      "duration" : 1020
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.2 ",
+    "uid" : "9b73afcbce0f261f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983506223,
+      "stop" : 1675983506808,
+      "duration" : 585
+    },
+    "flaky" : false,
+    "parameters" : [ "053-12" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.10 ",
+    "uid" : "e2c5c3743bb60553",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983482746,
+      "stop" : 1675983482945,
+      "duration" : 199
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט+" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.9 ",
+    "uid" : "4321821cc2f55049",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983533345,
+      "stop" : 1675983533529,
+      "duration" : 184
+    },
+    "flaky" : false,
+    "parameters" : [ "1234.56789" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.25 ",
+    "uid" : "12f83cffa9fccf53",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983477907,
+      "stop" : 1675983478034,
+      "duration" : 127
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.34 ",
+    "uid" : "2414018c6d115023",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983528594,
+      "stop" : 1675983528770,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.3 ",
+    "uid" : "7776ce7a6c9ac933",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983510628,
+      "stop" : 1675983510827,
+      "duration" : 199
+    },
+    "flaky" : false,
+    "parameters" : [ "user@missingtld" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.32 ",
+    "uid" : "32ae97816add0531",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983520646,
+      "stop" : 1675983520824,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.26 ",
+    "uid" : "423a5ba59dc02af0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983478035,
+      "stop" : 1675983478174,
+      "duration" : 139
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.8 ",
+    "uid" : "d71eaae0b1145b6d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983533159,
+      "stop" : 1675983533344,
+      "duration" : 185
+    },
+    "flaky" : false,
+    "parameters" : [ "1234_56789" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.1 ",
+    "uid" : "bc053bcd38a36163",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983531413,
+      "stop" : 1675983531734,
+      "duration" : 321
+    },
+    "flaky" : false,
+    "parameters" : [ "2345" ]
+  }, {
+    "name" : "Family name field test with valid values -- @1.2 ",
+    "uid" : "f0af9a84c8064ed6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983488720,
+      "stop" : 1675983488835,
+      "duration" : 115
+    },
+    "flaky" : false,
+    "parameters" : [ "דגכככככככככ" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.13 ",
+    "uid" : "1cbaca85820d6550",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983235573,
+      "stop" : 1675983235743,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.12 ",
+    "uid" : "c7afbbe9eb7284f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983534059,
+      "stop" : 1675983534309,
+      "duration" : 250
+    },
+    "flaky" : false,
+    "parameters" : [ "12c3456789" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.5 ",
+    "uid" : "32ba3d1f7b3aca9f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983250575,
+      "stop" : 1675983251004,
+      "duration" : 429
+    },
+    "flaky" : false,
+    "parameters" : [ "053-12" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.3 ",
+    "uid" : "135d784378d3481d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983254283,
+      "stop" : 1675983254866,
+      "duration" : 583
+    },
+    "flaky" : false,
+    "parameters" : [ "يت-تننتاتنا" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.8 ",
+    "uid" : "b511960152d1ebfc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983511680,
+      "stop" : 1675983511874,
+      "duration" : 194
+    },
+    "flaky" : false,
+    "parameters" : [ "#@%^%#$@#$@#.com" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.2 ",
+    "uid" : "df9f2192fe629bec",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983497871,
+      "stop" : 1675983498303,
+      "duration" : 432
+    },
+    "flaky" : false,
+    "parameters" : [ "053-12" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.4 ",
+    "uid" : "7aeed691e19bd8df",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983510828,
+      "stop" : 1675983511032,
+      "duration" : 204
+    },
+    "flaky" : false,
+    "parameters" : [ "user@.missingtld." ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.27 ",
+    "uid" : "7e833ed71653595d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983527274,
+      "stop" : 1675983527444,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.36 ",
+    "uid" : "9f4997c0e132ceed",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983231950,
+      "stop" : 1675983232106,
+      "duration" : 156
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת12" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.39 ",
+    "uid" : "351a6409e3cb02dc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983480122,
+      "stop" : 1675983480298,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח@" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.14 ",
+    "uid" : "6511d6b233c4fd4c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983512903,
+      "stop" : 1675983513129,
+      "duration" : 226
+    },
+    "flaky" : false,
+    "parameters" : [ "email.with!symbol@com.com" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.23 ",
+    "uid" : "a1cc10eed7bbcf39",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983485124,
+      "stop" : 1675983485296,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+    "uid" : "2e540d3612488e2e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983475591,
+      "stop" : 1675983475757,
+      "duration" : 166
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.9 ",
+    "uid" : "363ab0c04e522eab",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289653648,
+      "stop" : 1676289653691,
+      "duration" : 43
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט*" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.27 ",
+    "uid" : "624033f9c129c682",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983485839,
+      "stop" : 1675983486015,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.2 ",
+    "uid" : "78937cae79d886f8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983515249,
+      "stop" : 1675983515430,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט!" ]
+  }, {
+    "name" : "Mobile phone field test with valid values -- @1.3 ",
+    "uid" : "7589d4c6d32df09a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983501373,
+      "stop" : 1675983502142,
+      "duration" : 769
+    },
+    "flaky" : false,
+    "parameters" : [ "077-7383632" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.16 ",
+    "uid" : "263315576e499c45",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983236115,
+      "stop" : 1675983236291,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.16 ",
+    "uid" : "eef276d54f9f31fd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983525364,
+      "stop" : 1675983525528,
+      "duration" : 164
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.18 ",
+    "uid" : "93f63e8c2c9270e2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983493463,
+      "stop" : 1675983493654,
+      "duration" : 191
+    },
+    "flaky" : false,
+    "parameters" : [ "12f3456789" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.5 ",
+    "uid" : "2d630a630637a5a7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983242009,
+      "stop" : 1675983242186,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "ab123456" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.1 ",
+    "uid" : "9a0131d4136bfaa3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983497219,
+      "stop" : 1675983497871,
+      "duration" : 652
+    },
+    "flaky" : false,
+    "parameters" : [ "dd-1" ]
+  }, {
+    "name" : "Mobile phone field test with valid values -- @1.2 ",
+    "uid" : "17c175595b9ccc97",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983500837,
+      "stop" : 1675983501372,
+      "duration" : 535
+    },
+    "flaky" : false,
+    "parameters" : [ "050-6393648" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.14 ",
+    "uid" : "c871bf9e17dc665a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983534579,
+      "stop" : 1675983534835,
+      "duration" : 256
+    },
+    "flaky" : false,
+    "parameters" : [ "12e3456789" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.1 ",
+    "uid" : "9ab6892b6ad862c8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983522643,
+      "stop" : 1675983522896,
+      "duration" : 253
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט12" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.6 ",
+    "uid" : "8e4579bf278c9ac0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983264876,
+      "stop" : 1675983264992,
+      "duration" : 116
+    },
+    "flaky" : false,
+    "parameters" : [ "user+name@example.com" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.5 ",
+    "uid" : "cf462fecce2a1cc7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983504890,
+      "stop" : 1675983505619,
+      "duration" : 729
+    },
+    "flaky" : false,
+    "parameters" : [ "053-34876556734567" ]
+  }, {
+    "name" : "test  Postal Code for valid values -- @1.4 ",
+    "uid" : "f266e74641231f9f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983522536,
+      "stop" : 1675983522642,
+      "duration" : 106
+    },
+    "flaky" : false,
+    "parameters" : [ "632486" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.1 ",
+    "uid" : "8d8c4cf3ce76cdd6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983502143,
+      "stop" : 1675983502954,
+      "duration" : 811
+    },
+    "flaky" : false,
+    "parameters" : [ "dd-7133772" ]
+  }, {
+    "name" : "I.D. field test with valid values -- @1.1 ",
+    "uid" : "57707d0915af6bff",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983244501,
+      "stop" : 1675983244602,
+      "duration" : 101
+    },
+    "flaky" : false,
+    "parameters" : [ "319076618" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.17 ",
+    "uid" : "95a6b24879bfee4c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983229367,
+      "stop" : 1675983229506,
+      "duration" : 139
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.5 ",
+    "uid" : "add9897fcc0133d6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983255582,
+      "stop" : 1675983256319,
+      "duration" : 737
+    },
+    "flaky" : false,
+    "parameters" : [ "053-34876556734567" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.39 ",
+    "uid" : "548fa3438ec4c712",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983521868,
+      "stop" : 1675983522035,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח@" ]
+  }, {
+    "name" : "Land-line phone field test with valid values -- @1.1 ",
+    "uid" : "355ea3eb92f45d75",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983508720,
+      "stop" : 1675983509482,
+      "duration" : 762
+    },
+    "flaky" : false,
+    "parameters" : [ "053-7133772" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.4 ",
+    "uid" : "5a9c514b0ca1b4a6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983490823,
+      "stop" : 1675983491123,
+      "duration" : 300
+    },
+    "flaky" : false,
+    "parameters" : [ "2345" ]
+  }, {
+    "name" : "Footer check if displayed",
+    "uid" : "fa3d16410c17bcd0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983474459,
+      "stop" : 1675983474515,
+      "duration" : 56
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.11 ",
+    "uid" : "4782f6cb6142eaeb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983492225,
+      "stop" : 1675983492400,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "1234_56789" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.4 ",
+    "uid" : "1e26c10b6547d53a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983507552,
+      "stop" : 1675983508135,
+      "duration" : 583
+    },
+    "flaky" : false,
+    "parameters" : [ "07-76554" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.9 ",
+    "uid" : "8788f39de4a8bd94",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983234844,
+      "stop" : 1675983235027,
+      "duration" : 183
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט*" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.9 ",
+    "uid" : "e4fd71a4020f5931",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983524156,
+      "stop" : 1675983524330,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט*" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.24 ",
+    "uid" : "a85d8c22cc76ee4b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983485297,
+      "stop" : 1675983485474,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.5 ",
+    "uid" : "fdcaf7437ed2445a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983523443,
+      "stop" : 1675983523613,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט$" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.7 ",
+    "uid" : "6ff949c678eb8a20",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983242368,
+      "stop" : 1675983242543,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "12-3456789" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+    "uid" : "33f772605dc23d53",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983478977,
+      "stop" : 1675983479119,
+      "duration" : 142
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.8 ",
+    "uid" : "fc88e2aefdb88c6d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983242544,
+      "stop" : 1675983242714,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "parameters" : [ "1234:56789" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.25 ",
+    "uid" : "5abdd72732f4391a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983237712,
+      "stop" : 1675983237884,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.2 ",
+    "uid" : "8b2b0ca016ccb405",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983248606,
+      "stop" : 1675983249047,
+      "duration" : 441
+    },
+    "flaky" : false,
+    "parameters" : [ "053-12" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.5 ",
+    "uid" : "e4c63c1f3ca3b701",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676289652501,
+      "stop" : 1676289652884,
+      "duration" : 383
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט$" ]
+  }, {
+    "name" : "Family name field test with valid values -- @1.1 ",
+    "uid" : "c618ac5fa0ec6a91",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983240810,
+      "stop" : 1675983240927,
+      "duration" : 117
+    },
+    "flaky" : false,
+    "parameters" : [ "גדכגדכ" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.26 ",
+    "uid" : "45d25841b82fac4b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983519484,
+      "stop" : 1675983519654,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.33 ",
+    "uid" : "8e98337970cc3511",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983528415,
+      "stop" : 1675983528593,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.11 ",
+    "uid" : "a329674c2a5a3997",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983482946,
+      "stop" : 1675983483142,
+      "duration" : 196
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.28 ",
+    "uid" : "7db22bfebaf94874",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983486015,
+      "stop" : 1675983486212,
+      "duration" : 197
+    },
+    "flaky" : false,
+    "parameters" : [ "32kj4k324" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.38 ",
+    "uid" : "900187809396b6eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983232409,
+      "stop" : 1675983232583,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי!" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.13 ",
+    "uid" : "5c3d0dcf4e72c18f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983524851,
+      "stop" : 1675983525015,
+      "duration" : 164
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.2 ",
+    "uid" : "7a274c5bc1bf4442",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983264380,
+      "stop" : 1675983264497,
+      "duration" : 117
+    },
+    "flaky" : false,
+    "parameters" : [ "user@example.co.il" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.20 ",
+    "uid" : "6384f9b25c69c638",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983236826,
+      "stop" : 1675983236995,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.20 ",
+    "uid" : "d80d7ca8428b789",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983484590,
+      "stop" : 1675983484765,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "Land-line phone field test with valid values -- @1.1 ",
+    "uid" : "e9af9ed0bf97c665",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983259342,
+      "stop" : 1675983260058,
+      "duration" : 716
+    },
+    "flaky" : false,
+    "parameters" : [ "053-7133772" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.12 ",
+    "uid" : "3293f4d68f401dc4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983517027,
+      "stop" : 1675983517213,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.5 ",
+    "uid" : "2b91e15c0b3cd1bc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983532448,
+      "stop" : 1675983532650,
+      "duration" : 202
+    },
+    "flaky" : false,
+    "parameters" : [ "1234:56789" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.18 ",
+    "uid" : "f93a111671a9c7a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983525710,
+      "stop" : 1675983525879,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.7 ",
+    "uid" : "c911fe0436a0392e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983516152,
+      "stop" : 1675983516323,
+      "duration" : 171
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט^" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.29 ",
+    "uid" : "983d0258551b7b5b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983230888,
+      "stop" : 1675983231016,
+      "duration" : 128
+    },
+    "flaky" : false,
+    "parameters" : [ "432اتتاלחךל" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.10 ",
+    "uid" : "2b465c9dedda7782",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983516673,
+      "stop" : 1675983516850,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט+" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.17 ",
+    "uid" : "39333a2ce1a09315",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983525529,
+      "stop" : 1675983525709,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.1 ",
+    "uid" : "d6f7f3cc1f7d4d72",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983480843,
+      "stop" : 1675983481100,
+      "duration" : 257
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט12" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.3 ",
+    "uid" : "5ca8ab9f65e6d071",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983264498,
+      "stop" : 1675983264618,
+      "duration" : 120
+    },
+    "flaky" : false,
+    "parameters" : [ "user.name@example.co.il" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.38 ",
+    "uid" : "b417efa7735a096d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983521699,
+      "stop" : 1675983521867,
+      "duration" : 168
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי!" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.36 ",
+    "uid" : "f4f66f8e25ddb7d2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983239835,
+      "stop" : 1675983240010,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת12" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.9 ",
+    "uid" : "aa8d90ada408c67b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983482543,
+      "stop" : 1675983482745,
+      "duration" : 202
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט*" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.2 ",
+    "uid" : "a2ef5551b197babd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983256890,
+      "stop" : 1675983257461,
+      "duration" : 571
+    },
+    "flaky" : false,
+    "parameters" : [ "053-12" ]
+  }, {
+    "name" : "First name field test with valid values -- @1.3 ",
+    "uid" : "e2ae9098b1381ec2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983480734,
+      "stop" : 1675983480842,
+      "duration" : 108
+    },
+    "flaky" : false,
+    "parameters" : [ "םיעןחפםעיח" ]
+  }, {
+    "name" : "Header check if displayed",
+    "uid" : "4decbf9dd7734bc4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676289642377,
+      "stop" : 1676289651119,
+      "duration" : 8742
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.6 ",
+    "uid" : "3988e765769313bc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983511220,
+      "stop" : 1675983511488,
+      "duration" : 268
+    },
+    "flaky" : false,
+    "parameters" : [ "user@-invalidtld.com" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.28 ",
+    "uid" : "5609abc2c474e691",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983478305,
+      "stop" : 1675983478454,
+      "duration" : 149
+    },
+    "flaky" : false,
+    "parameters" : [ "32kj4k324" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.4 ",
+    "uid" : "a3433922c660c497",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983504166,
+      "stop" : 1675983504889,
+      "duration" : 723
+    },
+    "flaky" : false,
+    "parameters" : [ "07-3457654387646734567" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.2 ",
+    "uid" : "2c4aeab687578b67",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983245455,
+      "stop" : 1675983245911,
+      "duration" : 456
+    },
+    "flaky" : false,
+    "parameters" : [ "053-oiخهع" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.28 ",
+    "uid" : "2078f3a4f6a2a6c2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983238235,
+      "stop" : 1675983238434,
+      "duration" : 199
+    },
+    "flaky" : false,
+    "parameters" : [ "32kj4k324" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.4 ",
+    "uid" : "995cc20acac97d2c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983495817,
+      "stop" : 1675983496624,
+      "duration" : 807
+    },
+    "flaky" : false,
+    "parameters" : [ "07-3457654387646734567" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.4 ",
+    "uid" : "521078e613635a16",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983233904,
+      "stop" : 1675983234097,
+      "duration" : 193
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט#" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.12 ",
+    "uid" : "9ec063ef16145dc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983492401,
+      "stop" : 1675983492576,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "1234.56789" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.1 ",
+    "uid" : "b850ed7380d08f4f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983233266,
+      "stop" : 1675983233530,
+      "duration" : 264
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט12" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.2 ",
+    "uid" : "7ab17b2220fbbb36",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983513807,
+      "stop" : 1675983513924,
+      "duration" : 117
+    },
+    "flaky" : false,
+    "parameters" : [ "user@example.co.il" ]
+  }, {
+    "name" : "test  home number input for valid values -- @1.2 ",
+    "uid" : "4d0944591a6eb11f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983529942,
+      "stop" : 1675983530042,
+      "duration" : 100
+    },
+    "flaky" : false,
+    "parameters" : [ "123456789" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.23 ",
+    "uid" : "4b558f9afa1df57f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983526565,
+      "stop" : 1675983526734,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.12 ",
+    "uid" : "7f93e2bc04ae4de5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983483143,
+      "stop" : 1675983483320,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.24 ",
+    "uid" : "260f96694ac5e6a7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983526735,
+      "stop" : 1675983526918,
+      "duration" : 183
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+    "uid" : "1e48d3e0eaf542a5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983249048,
+      "stop" : 1675983249883,
+      "duration" : 835
+    },
+    "flaky" : false,
+    "parameters" : [ "123-تننتاتنا" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.4 ",
+    "uid" : "a8868ea189450935",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983475010,
+      "stop" : 1675983475153,
+      "duration" : 143
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט#" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.13 ",
+    "uid" : "d1fb192f2f3ee022",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983534310,
+      "stop" : 1675983534578,
+      "duration" : 268
+    },
+    "flaky" : false,
+    "parameters" : [ "12d3456789" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.15 ",
+    "uid" : "576afa1e3530da6a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983243795,
+      "stop" : 1675983243967,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "12c3456789" ]
+  }, {
+    "name" : "test to choose id type - PASSPORT NUMBER - -- @1.2 ",
+    "uid" : "1f661332283faa0a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983530653,
+      "stop" : 1675983531020,
+      "duration" : 367
+    },
+    "flaky" : false,
+    "parameters" : [ "ת.ז." ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.4 ",
+    "uid" : "89ac482c4bff999c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676289652181,
+      "stop" : 1676289652500,
+      "duration" : 319
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט#" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.11 ",
+    "uid" : "29c3e6025b7934f0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983524503,
+      "stop" : 1675983524683,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.7 ",
+    "uid" : "d3ab0917b1e0ab0a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983514480,
+      "stop" : 1675983514609,
+      "duration" : 129
+    },
+    "flaky" : false,
+    "parameters" : [ "user.nametag@example.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.22 ",
+    "uid" : "20748f750edfb195",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983518774,
+      "stop" : 1675983518952,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.6 ",
+    "uid" : "b0a634eac5a4e893",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983515978,
+      "stop" : 1675983516151,
+      "duration" : 173
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט%" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.23 ",
+    "uid" : "8e0cd787f5155832",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983230141,
+      "stop" : 1675983230259,
+      "duration" : 118
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.4 ",
+    "uid" : "d88d264879955b74",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983532251,
+      "stop" : 1675983532447,
+      "duration" : 196
+    },
+    "flaky" : false,
+    "parameters" : [ "12-3456789" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.2 ",
+    "uid" : "4dbcd80f69e6a912",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983481101,
+      "stop" : 1675983481317,
+      "duration" : 216
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט!" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.4 ",
+    "uid" : "815a9c52a9e9682a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983246553,
+      "stop" : 1675983247335,
+      "duration" : 782
+    },
+    "flaky" : false,
+    "parameters" : [ "07-3457654387646734567" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.15 ",
+    "uid" : "a0a83a0327cd4297",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983263720,
+      "stop" : 1675983263997,
+      "duration" : 277
+    },
+    "flaky" : false,
+    "parameters" : [ "email.with%percent@com.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.16 ",
+    "uid" : "ce96c53da635f4da",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983517727,
+      "stop" : 1675983517900,
+      "duration" : 173
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.14 ",
+    "uid" : "a02423c2127047c5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983492751,
+      "stop" : 1675983492932,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "12b3456789" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.5 ",
+    "uid" : "2991820fa103c656",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983514181,
+      "stop" : 1675983514340,
+      "duration" : 159
+    },
+    "flaky" : false,
+    "parameters" : [ "user_name@example.com" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.1 ",
+    "uid" : "e4cd2a2852b005aa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983241139,
+      "stop" : 1675983241402,
+      "duration" : 263
+    },
+    "flaky" : false,
+    "parameters" : [ "000000000" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.13 ",
+    "uid" : "fff21d2587cf3248",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983483321,
+      "stop" : 1675983483496,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "Fill valid values except Family Name field, then click continue button to check the process,",
+    "uid" : "15a55696be06c40b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983272659,
+      "stop" : 1675983273703,
+      "duration" : 1044
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.34 ",
+    "uid" : "9337721fb3ddfcfe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983479120,
+      "stop" : 1675983479255,
+      "duration" : 135
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.30 ",
+    "uid" : "f40ab88dd99eccb9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983486389,
+      "stop" : 1675983486584,
+      "duration" : 195
+    },
+    "flaky" : false,
+    "parameters" : [ "כגד09לחi09تهךח" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.5 ",
+    "uid" : "9268c1dd1482c5ba",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983475153,
+      "stop" : 1675983475300,
+      "duration" : 147
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט$" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.29 ",
+    "uid" : "4a912cdbb8527820",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983486213,
+      "stop" : 1675983486388,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "432اتتاלחךל" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.1 ",
+    "uid" : "89316e93328e0b69",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983256320,
+      "stop" : 1675983256889,
+      "duration" : 569
+    },
+    "flaky" : false,
+    "parameters" : [ "dd-1" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.37 ",
+    "uid" : "e402ad779d42bb90",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983529142,
+      "stop" : 1675983529312,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "parameters" : [ "חכלכיעחלך" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.20 ",
+    "uid" : "ac87874482c1d72a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983518424,
+      "stop" : 1675983518593,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.8 ",
+    "uid" : "fe1905a23f7c0e2a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983523966,
+      "stop" : 1675983524155,
+      "duration" : 189
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.25 ",
+    "uid" : "4c901ef48d9fa54",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983230373,
+      "stop" : 1675983230496,
+      "duration" : 123
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "test  passport number input for invalid values -- @1.3 ",
+    "uid" : "22484e409815d5b4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983531984,
+      "stop" : 1675983532250,
+      "duration" : 266
+    },
+    "flaky" : false,
+    "parameters" : [ "12341234567" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.27 ",
+    "uid" : "bf6d90e6758cf610",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983478175,
+      "stop" : 1675983478305,
+      "duration" : 130
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.21 ",
+    "uid" : "133f4149066fe736",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983484766,
+      "stop" : 1675983484949,
+      "duration" : 183
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "test  Postal Code for valid values -- @1.2 ",
+    "uid" : "226b700bbe77b1aa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983522328,
+      "stop" : 1675983522431,
+      "duration" : 103
+    },
+    "flaky" : false,
+    "parameters" : [ "123456789" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.32 ",
+    "uid" : "e945d9ba5f37ce31",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983486782,
+      "stop" : 1675983486966,
+      "duration" : 184
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.26 ",
+    "uid" : "4b405b452d75603c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983230497,
+      "stop" : 1675983230631,
+      "duration" : 134
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "Family name field test with valid values -- @1.3 ",
+    "uid" : "9600c3b0819aec75",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983488836,
+      "stop" : 1675983488945,
+      "duration" : 109
+    },
+    "flaky" : false,
+    "parameters" : [ "םיעןחפםעיח" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.32 ",
+    "uid" : "c48a3a370dcdc76f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983528229,
+      "stop" : 1675983528414,
+      "duration" : 185
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.28 ",
+    "uid" : "24456e3f51c44e9d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983527445,
+      "stop" : 1675983527622,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "32kj4k324" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+    "uid" : "af871f18802fddde",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983231415,
+      "stop" : 1675983231540,
+      "duration" : 125
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.3 ",
+    "uid" : "4aaa88250f98a1c8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983245912,
+      "stop" : 1675983246553,
+      "duration" : 641
+    },
+    "flaky" : false,
+    "parameters" : [ "يت-تننتاتنا" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.40 ",
+    "uid" : "9475bed4efa3e99a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983240628,
+      "stop" : 1675983240809,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ#" ]
+  }, {
+    "name" : "test  home number input for valid values -- @1.4 ",
+    "uid" : "48425a71d72f30ca",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983530141,
+      "stop" : 1675983530244,
+      "duration" : 103
+    },
+    "flaky" : false,
+    "parameters" : [ "632486" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.3 ",
+    "uid" : "1d62f2bff6733181",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676289651862,
+      "stop" : 1676289652180,
+      "duration" : 318
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט@" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.12 ",
+    "uid" : "291b98fd1d1ab891",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983263041,
+      "stop" : 1675983263227,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "parameters" : [ "leadingdot@.com" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.5 ",
+    "uid" : "8d06c7e966c00902",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983511033,
+      "stop" : 1675983511219,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "parameters" : [ "user@missingtld." ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.23 ",
+    "uid" : "5f79f7b0c9f6b868",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983477624,
+      "stop" : 1675983477751,
+      "duration" : 127
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.9 ",
+    "uid" : "52fd70cb65004fce",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983516501,
+      "stop" : 1675983516672,
+      "duration" : 171
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט*" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.19 ",
+    "uid" : "fbbd238548596432",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983525880,
+      "stop" : 1675983526046,
+      "duration" : 166
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.21 ",
+    "uid" : "eb094028b06adcfd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983518594,
+      "stop" : 1675983518773,
+      "duration" : 179
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.2 ",
+    "uid" : "b7510b64abca75e7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983261000,
+      "stop" : 1675983261186,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "parameters" : [ "@missingusername.com" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.10 ",
+    "uid" : "c6e94d6ecc847832",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289653692,
+      "stop" : 1676289653765,
+      "duration" : 73
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט+" ]
+  }, {
+    "name" : "Land-line phone field test with valid values -- @1.2 ",
+    "uid" : "637e047068515e3c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983260059,
+      "stop" : 1675983260750,
+      "duration" : 691
+    },
+    "flaky" : false,
+    "parameters" : [ "073-7383632" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.4 ",
+    "uid" : "79c6052aaee93aea",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983514056,
+      "stop" : 1675983514180,
+      "duration" : 124
+    },
+    "flaky" : false,
+    "parameters" : [ "user.name@example.com" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.20 ",
+    "uid" : "b587adffd8b8038d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983526047,
+      "stop" : 1675983526216,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.13 ",
+    "uid" : "588dc0094e11cf30",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983263228,
+      "stop" : 1675983263529,
+      "duration" : 301
+    },
+    "flaky" : false,
+    "parameters" : [ ".leadingdot@com.com" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.17 ",
+    "uid" : "6738d59b52e06ec9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983244159,
+      "stop" : 1675983244333,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "12e3456789" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.6 ",
+    "uid" : "113c4d8065b98265",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983261742,
+      "stop" : 1675983262079,
+      "duration" : 337
+    },
+    "flaky" : false,
+    "parameters" : [ "user@-invalidtld.com" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.24 ",
+    "uid" : "c5da18c369d21de",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983237532,
+      "stop" : 1675983237711,
+      "duration" : 179
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.5 ",
+    "uid" : "29e854d2bd4a5fe4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983261563,
+      "stop" : 1675983261741,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "user@missingtld." ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.5 ",
+    "uid" : "4bb47fd2113fa408",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983496625,
+      "stop" : 1675983497218,
+      "duration" : 593
+    },
+    "flaky" : false,
+    "parameters" : [ "053-34876556734567" ]
+  }, {
+    "name" : "Fill valid values except First Name field, then click continue button to check the process,",
+    "uid" : "365bca2ceb3027b9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983271621,
+      "stop" : 1675983272658,
+      "duration" : 1037
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.15 ",
+    "uid" : "4b0bf2051949de3b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983476567,
+      "stop" : 1675983476687,
+      "duration" : 120
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.35 ",
+    "uid" : "b2beae93d4af985c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983521185,
+      "stop" : 1675983521352,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/()" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.34 ",
+    "uid" : "a1b8e09a242c6958",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983231541,
+      "stop" : 1675983231661,
+      "duration" : 120
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.16 ",
+    "uid" : "895f2615dc7dba85",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983263998,
+      "stop" : 1675983264264,
+      "duration" : 266
+    },
+    "flaky" : false,
+    "parameters" : [ "email.with_underscore@com.com" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.3 ",
+    "uid" : "bdc6edd29c84a73b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983261187,
+      "stop" : 1675983261381,
+      "duration" : 194
+    },
+    "flaky" : false,
+    "parameters" : [ "user@missingtld" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.2 ",
+    "uid" : "7e3a3ca255a09925",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983474720,
+      "stop" : 1675983474872,
+      "duration" : 152
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט!" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.26 ",
+    "uid" : "1ecc77584260722e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983527106,
+      "stop" : 1675983527273,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.3 ",
+    "uid" : "4c7302b94ae3f69",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983481318,
+      "stop" : 1675983481519,
+      "duration" : 201
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט@" ]
+  }, {
+    "name" : "First name field test with valid values -- @1.1 ",
+    "uid" : "994d478921453236",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983480480,
+      "stop" : 1675983480591,
+      "duration" : 111
+    },
+    "flaky" : false,
+    "parameters" : [ "גדכגדכ" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.13 ",
+    "uid" : "becd864d7e43d4cf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289653963,
+      "stop" : 1676289654101,
+      "duration" : 138
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.22 ",
+    "uid" : "6d1f9f34c75e07ee",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983237179,
+      "stop" : 1675983237355,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "unit test to choose id type - ID NUMBER - -- @1.2 ",
+    "uid" : "e05f65142358931e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983489419,
+      "stop" : 1675983489825,
+      "duration" : 406
+    },
+    "flaky" : false,
+    "parameters" : [ "דרכון" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.2 ",
+    "uid" : "49c01d8a12971ea8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983510439,
+      "stop" : 1675983510627,
+      "duration" : 188
+    },
+    "flaky" : false,
+    "parameters" : [ "@missingusername.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.19 ",
+    "uid" : "74f5c57f86e71df3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983518239,
+      "stop" : 1675983518423,
+      "duration" : 184
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "I.D. field test with valid values -- @1.1 ",
+    "uid" : "193524bc67438ca3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983493654,
+      "stop" : 1675983493762,
+      "duration" : 108
+    },
+    "flaky" : false,
+    "parameters" : [ "319076618" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.1 ",
+    "uid" : "25f66d1fbf4bb098",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676289651123,
+      "stop" : 1676289651551,
+      "duration" : 428
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט12" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+    "uid" : "7a7ac2c2687c9482",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983498304,
+      "stop" : 1675983499149,
+      "duration" : 845
+    },
+    "flaky" : false,
+    "parameters" : [ "123-تننتاتنا" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.23 ",
+    "uid" : "30fa535b71d8b6a2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983237357,
+      "stop" : 1675983237531,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.20 ",
+    "uid" : "919ef90d205c71e4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983229745,
+      "stop" : 1675983229865,
+      "duration" : 120
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.12 ",
+    "uid" : "2548bc7dc1f4bed0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983243268,
+      "stop" : 1675983243444,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "1234.56789" ]
+  }, {
+    "name" : "test  Postal Code for valid values -- @1.1 ",
+    "uid" : "ec33e8f66412fff4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983522208,
+      "stop" : 1675983522327,
+      "duration" : 119
+    },
+    "flaky" : false,
+    "parameters" : [ "76543" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.16 ",
+    "uid" : "df2ed6d3c265dd39",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983483875,
+      "stop" : 1675983484048,
+      "duration" : 173
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.19 ",
+    "uid" : "8bb583fc03bcf695",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983229628,
+      "stop" : 1675983229745,
+      "duration" : 117
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.15 ",
+    "uid" : "4b1e572e320c74b7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983483679,
+      "stop" : 1675983483874,
+      "duration" : 195
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.33 ",
+    "uid" : "1cec73a93edfc36d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983520825,
+      "stop" : 1675983520992,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.12 ",
+    "uid" : "d96b621f06c6999a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289653836,
+      "stop" : 1676289653962,
+      "duration" : 126
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.7 ",
+    "uid" : "d37d4485756850ca",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983511489,
+      "stop" : 1675983511679,
+      "duration" : 190
+    },
+    "flaky" : false,
+    "parameters" : [ "plainaddress" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.26 ",
+    "uid" : "904e27479705aa48",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983485658,
+      "stop" : 1675983485839,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.30 ",
+    "uid" : "2cfc63a30ee60b2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983478586,
+      "stop" : 1675983478725,
+      "duration" : 139
+    },
+    "flaky" : false,
+    "parameters" : [ "כגד09לחi09تهךח" ]
+  }, {
+    "name" : "test to choose id type - PASSPORT NUMBER - -- @1.3 ",
+    "uid" : "9f2a1990eaa2b799",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983531021,
+      "stop" : 1675983531412,
+      "duration" : 391
+    },
+    "flaky" : false,
+    "parameters" : [ "דרכון" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.24 ",
+    "uid" : "cb6e12ea56064e2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983477751,
+      "stop" : 1675983477907,
+      "duration" : 156
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Footer check if displayed",
+    "uid" : "e883f5a84c0fff14",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1676381064893,
+      "stop" : 1676381092165,
+      "duration" : 27272
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.6 ",
+    "uid" : "628aec2bd98bd3e5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983523614,
+      "stop" : 1675983523792,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט%" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.26 ",
+    "uid" : "6fc033b638c1f3e1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983237885,
+      "stop" : 1675983238056,
+      "duration" : 171
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.17 ",
+    "uid" : "c21157af14f68799",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983484049,
+      "stop" : 1675983484223,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.7 ",
+    "uid" : "fedcc71bce627076",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289653263,
+      "stop" : 1676289653558,
+      "duration" : 295
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט^" ]
+  }, {
+    "name" : "Accessibility icon test",
+    "uid" : "d2ed0bc15dc5849f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983536171,
+      "stop" : 1675983540825,
+      "duration" : 4654
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.11 ",
+    "uid" : "479ca37ad9e299f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289653766,
+      "stop" : 1676289653833,
+      "duration" : 67
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.7 ",
+    "uid" : "dcd7d3d8d5dcfefa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983234466,
+      "stop" : 1675983234658,
+      "duration" : 192
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט^" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.37 ",
+    "uid" : "a4a327325c60ac85",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983232107,
+      "stop" : 1675983232408,
+      "duration" : 301
+    },
+    "flaky" : false,
+    "parameters" : [ "חכלכיעחלך" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.10 ",
+    "uid" : "f7d64d3231e3bcd5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983492053,
+      "stop" : 1675983492224,
+      "duration" : 171
+    },
+    "flaky" : false,
+    "parameters" : [ "1234 56789" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.15 ",
+    "uid" : "7f8ad0548c33a5f1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289654205,
+      "stop" : 1676289654283,
+      "duration" : 78
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.38 ",
+    "uid" : "631f7641322363a4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983488044,
+      "stop" : 1675983488236,
+      "duration" : 192
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי!" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+    "uid" : "93b088fa6555ab32",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983486967,
+      "stop" : 1675983487147,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.27 ",
+    "uid" : "4dfddc0413ce105e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983238057,
+      "stop" : 1675983238234,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.28 ",
+    "uid" : "3d89e7c5837751b6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983230753,
+      "stop" : 1675983230887,
+      "duration" : 134
+    },
+    "flaky" : false,
+    "parameters" : [ "32kj4k324" ]
+  }, {
+    "name" : "Mobile phone field test with valid values -- @1.3 ",
+    "uid" : "35c8f7746d513140",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983252133,
+      "stop" : 1675983252901,
+      "duration" : 768
+    },
+    "flaky" : false,
+    "parameters" : [ "077-7383632" ]
+  }, {
+    "name" : "Family name field test with valid values -- @1.1 ",
+    "uid" : "cbee69a182b1eee",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983488615,
+      "stop" : 1675983488720,
+      "duration" : 105
+    },
+    "flaky" : false,
+    "parameters" : [ "גדכגדכ" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.30 ",
+    "uid" : "8c8f994a7355adab",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983238600,
+      "stop" : 1675983238783,
+      "duration" : 183
+    },
+    "flaky" : false,
+    "parameters" : [ "כגד09לחi09تهךח" ]
+  }, {
+    "name" : "Accessibility icon test",
+    "uid" : "8050201464c25e80",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983265480,
+      "stop" : 1675983270153,
+      "duration" : 4673
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.9 ",
+    "uid" : "3f2969ddcf7107c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983511875,
+      "stop" : 1675983512062,
+      "duration" : 187
+    },
+    "flaky" : false,
+    "parameters" : [ "@missingatsign.com" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.21 ",
+    "uid" : "43413987c62a8cdb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983229866,
+      "stop" : 1675983229991,
+      "duration" : 125
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.2 ",
+    "uid" : "4645ef9f313ab14b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983522897,
+      "stop" : 1675983523086,
+      "duration" : 189
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט!" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.30 ",
+    "uid" : "c962297078033ca4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983527806,
+      "stop" : 1675983527983,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "כגד09לחi09تهךח" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.25 ",
+    "uid" : "17b3be83571aeb97",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983485474,
+      "stop" : 1675983485657,
+      "duration" : 183
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "unit test to choose id type - ID NUMBER - -- @1.1 ",
+    "uid" : "e5bfefeb2d228be6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983488946,
+      "stop" : 1675983489418,
+      "duration" : 472
+    },
+    "flaky" : false,
+    "parameters" : [ "ת.ז." ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.16 ",
+    "uid" : "c1cc154f0ca33f08",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289654285,
+      "stop" : 1676289654459,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "parameters" : [ "פצק%" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.35 ",
+    "uid" : "47a83f623613f3ce",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983231661,
+      "stop" : 1675983231949,
+      "duration" : 288
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/()" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.5 ",
+    "uid" : "8b8e78d625ca5a35",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983264754,
+      "stop" : 1675983264875,
+      "duration" : 121
+    },
+    "flaky" : false,
+    "parameters" : [ "user_name@example.com" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.8 ",
+    "uid" : "c0a3d3849d1e0e52",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983265110,
+      "stop" : 1675983265239,
+      "duration" : 129
+    },
+    "flaky" : false,
+    "parameters" : [ "user@subdomain.example.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.14 ",
+    "uid" : "7eedc8dc65c5b1b3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983517383,
+      "stop" : 1675983517548,
+      "duration" : 165
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.34 ",
+    "uid" : "b7c470d1d86fb186",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983487148,
+      "stop" : 1675983487329,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.9 ",
+    "uid" : "60b33188182f5ecb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983514738,
+      "stop" : 1675983514864,
+      "duration" : 126
+    },
+    "flaky" : false,
+    "parameters" : [ "user@sub.example.com" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.10 ",
+    "uid" : "7e564472c471ad86",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983265361,
+      "stop" : 1675983265479,
+      "duration" : 118
+    },
+    "flaky" : false,
+    "parameters" : [ "user@sub-domain.example.com" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.3 ",
+    "uid" : "a946fa1a06c2e76f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983503563,
+      "stop" : 1675983504165,
+      "duration" : 602
+    },
+    "flaky" : false,
+    "parameters" : [ "يت-تننتاتنا" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.36 ",
+    "uid" : "a2c201bbaa74abb6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983479496,
+      "stop" : 1675983479663,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת12" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.7 ",
+    "uid" : "f422bd9ceb610943",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983262080,
+      "stop" : 1675983262287,
+      "duration" : 207
+    },
+    "flaky" : false,
+    "parameters" : [ "plainaddress" ]
+  }, {
+    "name" : "Fill valid values except Mobile Number field, then click continue button to check the process,",
+    "uid" : "a3a8f8dacb00782e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983274725,
+      "stop" : 1675983275728,
+      "duration" : 1003
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.18 ",
+    "uid" : "af68ae089206e6c4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983244334,
+      "stop" : 1675983244500,
+      "duration" : 166
+    },
+    "flaky" : false,
+    "parameters" : [ "12f3456789" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.2 ",
+    "uid" : "4aa438b8758f7b6c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983502955,
+      "stop" : 1675983503562,
+      "duration" : 607
+    },
+    "flaky" : false,
+    "parameters" : [ "053-oiخهع" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.16 ",
+    "uid" : "503477c1ae2e7c4c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983243968,
+      "stop" : 1675983244159,
+      "duration" : 191
+    },
+    "flaky" : false,
+    "parameters" : [ "12d3456789" ]
+  }, {
+    "name" : "change the page language to arabic and test first name input in the valid case",
+    "uid" : "70e4a57989b66e9f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983639481,
+      "stop" : 1675983640645,
+      "duration" : 1164
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.39 ",
+    "uid" : "76f3ccb80b14eb49",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983529484,
+      "stop" : 1675983529666,
+      "duration" : 182
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח@" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.21 ",
+    "uid" : "58bd95fc1f9e5a05",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983477342,
+      "stop" : 1675983477496,
+      "duration" : 154
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.4 ",
+    "uid" : "77c6f20a4f0be88d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983499150,
+      "stop" : 1675983499801,
+      "duration" : 651
+    },
+    "flaky" : false,
+    "parameters" : [ "07-76554" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.30 ",
+    "uid" : "7ede346d20287e2d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983231017,
+      "stop" : 1675983231142,
+      "duration" : 125
+    },
+    "flaky" : false,
+    "parameters" : [ "כגד09לחi09تهךח" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.4 ",
+    "uid" : "bebe0e313bf5e656",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983523261,
+      "stop" : 1675983523442,
+      "duration" : 181
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט#" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.35 ",
+    "uid" : "ca0704d9c63b21e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983487331,
+      "stop" : 1675983487598,
+      "duration" : 267
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/()" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.37 ",
+    "uid" : "cc147ebec38eaa53",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983521522,
+      "stop" : 1675983521698,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "חכלכיעחלך" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+    "uid" : "ee3947bdf4a35725",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983236477,
+      "stop" : 1675983236653,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.35 ",
+    "uid" : "ebe766133252a30d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983479256,
+      "stop" : 1675983479495,
+      "duration" : 239
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/()" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.22 ",
+    "uid" : "f098a10aaa25ec59",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983229992,
+      "stop" : 1675983230141,
+      "duration" : 149
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.8 ",
+    "uid" : "8a7f1c88a177adc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983516324,
+      "stop" : 1675983516500,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט&" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.4 ",
+    "uid" : "988cc17dd3af7535",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983249884,
+      "stop" : 1675983250574,
+      "duration" : 690
+    },
+    "flaky" : false,
+    "parameters" : [ "07-76554" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.1 ",
+    "uid" : "b552571f1cfbcbe2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983260751,
+      "stop" : 1675983260999,
+      "duration" : 248
+    },
+    "flaky" : false,
+    "parameters" : [ "user@.com" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+    "uid" : "9f5669aee878dad6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1676289653560,
+      "stop" : 1676289653647,
+      "duration" : 87
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט&" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.20 ",
+    "uid" : "725b483946c0cd24",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983477193,
+      "stop" : 1675983477341,
+      "duration" : 148
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.25 ",
+    "uid" : "77c649456e903904",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983526918,
+      "stop" : 1675983527105,
+      "duration" : 187
+    },
+    "flaky" : false,
+    "parameters" : [ "מנס$" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.1 ",
+    "uid" : "afe2c61f095f001c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983513694,
+      "stop" : 1675983513806,
+      "duration" : 112
+    },
+    "flaky" : false,
+    "parameters" : [ "user@example.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.34 ",
+    "uid" : "4cd352fbb557bf3a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983520993,
+      "stop" : 1675983521184,
+      "duration" : 191
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ+" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.36 ",
+    "uid" : "6fd0fd99f565dbbc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983528953,
+      "stop" : 1675983529141,
+      "duration" : 188
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת12" ]
+  }, {
+    "name" : "test  home number input for valid values -- @1.3 ",
+    "uid" : "10c0257c14ac6761",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983530043,
+      "stop" : 1675983530140,
+      "duration" : 97
+    },
+    "flaky" : false,
+    "parameters" : [ "876543" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.4 ",
+    "uid" : "17c4ae9e65aac73a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983258188,
+      "stop" : 1675983258766,
+      "duration" : 578
+    },
+    "flaky" : false,
+    "parameters" : [ "07-76554" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.40 ",
+    "uid" : "8a6e014059153fda",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983529666,
+      "stop" : 1675983529834,
+      "duration" : 168
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ#" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.19 ",
+    "uid" : "19e3895c722d5cb3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983236654,
+      "stop" : 1675983236824,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח*" ]
+  }, {
+    "name" : "Mobile phone field test with valid values -- @1.1 ",
+    "uid" : "319d10223079af70",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983500236,
+      "stop" : 1675983500836,
+      "duration" : 600
+    },
+    "flaky" : false,
+    "parameters" : [ "053-7133772" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.15 ",
+    "uid" : "952c404ca7f83f51",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983513131,
+      "stop" : 1675983513397,
+      "duration" : 266
+    },
+    "flaky" : false,
+    "parameters" : [ "email.with%percent@com.com" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.8 ",
+    "uid" : "df5659ecfef762f6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983491697,
+      "stop" : 1675983491872,
+      "duration" : 175
+    },
+    "flaky" : false,
+    "parameters" : [ "1234:56789" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.39 ",
+    "uid" : "a570501054be923b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983232584,
+      "stop" : 1675983232760,
+      "duration" : 176
+    },
+    "flaky" : false,
+    "parameters" : [ "הוזח@" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.10 ",
+    "uid" : "1e7b1f3ee78cef3d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983235028,
+      "stop" : 1675983235217,
+      "duration" : 189
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט+" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.1 ",
+    "uid" : "c30f33f176087489",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983474516,
+      "stop" : 1675983474719,
+      "duration" : 203
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט12" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.31 ",
+    "uid" : "fb7e60291536bbb7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983527984,
+      "stop" : 1675983528228,
+      "duration" : 244
+    },
+    "flaky" : false,
+    "parameters" : [ "234324324" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.10 ",
+    "uid" : "f8d5bfd29e02eaea",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983242896,
+      "stop" : 1675983243100,
+      "duration" : 204
+    },
+    "flaky" : false,
+    "parameters" : [ "1234 56789" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.40 ",
+    "uid" : "7b0b9d1db541351e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983480299,
+      "stop" : 1675983480478,
+      "duration" : 179
+    },
+    "flaky" : false,
+    "parameters" : [ "לכמנ#" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.21 ",
+    "uid" : "f290fed99a0a2bc8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983236996,
+      "stop" : 1675983237178,
+      "duration" : 182
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.29 ",
+    "uid" : "caa459de82a47702",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983520017,
+      "stop" : 1675983520194,
+      "duration" : 177
+    },
+    "flaky" : false,
+    "parameters" : [ "432اتتاלחךל" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.24 ",
+    "uid" : "1e3c9b830f3f6380",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983519142,
+      "stop" : 1675983519314,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "parameters" : [ "יכל#" ]
+  }, {
+    "name" : "Family name field test with valid values -- @1.2 ",
+    "uid" : "b6b4eddebad998dd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983240928,
+      "stop" : 1675983241035,
+      "duration" : 107
+    },
+    "flaky" : false,
+    "parameters" : [ "דגכככככככככ" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.10 ",
+    "uid" : "c8d19349cad29427",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983524331,
+      "stop" : 1675983524502,
+      "duration" : 171
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט+" ]
+  }, {
+    "name" : "change the page language to arabic and test first name input in the valid case",
+    "uid" : "1f8110ff77b93977",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983410792,
+      "stop" : 1675983411949,
+      "duration" : 1157
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.12 ",
+    "uid" : "c1a819bb27f3f144",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983476188,
+      "stop" : 1675983476317,
+      "duration" : 129
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "Family name field test with valid values -- @1.3 ",
+    "uid" : "143de9d8c1d53ea7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983241036,
+      "stop" : 1675983241138,
+      "duration" : 102
+    },
+    "flaky" : false,
+    "parameters" : [ "םיעןחפםעיח" ]
+  }, {
+    "name" : "Mobile phone field test with valid values -- @1.1 ",
+    "uid" : "d928b5daaebedf9b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1675983251005,
+      "stop" : 1675983251597,
+      "duration" : 592
+    },
+    "flaky" : false,
+    "parameters" : [ "053-7133772" ]
+  }, {
+    "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.1 ",
+    "uid" : "fff4287b836ccb2c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983247925,
+      "stop" : 1675983248605,
+      "duration" : 680
+    },
+    "flaky" : false,
+    "parameters" : [ "dd-1" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.10 ",
+    "uid" : "1c94b76935c78365",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983262665,
+      "stop" : 1675983262854,
+      "duration" : 189
+    },
+    "flaky" : false,
+    "parameters" : [ "missingdot@.com" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.28 ",
+    "uid" : "96cde533c54973fa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983519830,
+      "stop" : 1675983520016,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "parameters" : [ "32kj4k324" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.38 ",
+    "uid" : "7b5dfdb29d0040eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983479950,
+      "stop" : 1675983480121,
+      "duration" : 171
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי!" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.38 ",
+    "uid" : "1b57c23412b45eac",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983529313,
+      "stop" : 1675983529483,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "parameters" : [ "בגדי!" ]
+  }, {
+    "name" : "First name field test with valid values -- @1.1 ",
+    "uid" : "9ad4dfbb99f57571",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983232952,
+      "stop" : 1675983233050,
+      "duration" : 98
+    },
+    "flaky" : false,
+    "parameters" : [ "גדכגדכ" ]
+  }, {
+    "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.27 ",
+    "uid" : "a939f90e757082bf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983230632,
+      "stop" : 1675983230751,
+      "duration" : 119
+    },
+    "flaky" : false,
+    "parameters" : [ "רשת^" ]
+  }, {
+    "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+    "uid" : "b91db429cd9b2d81",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675983506809,
+      "stop" : 1675983507551,
+      "duration" : 742
+    },
+    "flaky" : false,
+    "parameters" : [ "123-تننتاتنا" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.9 ",
+    "uid" : "80f750c9141e1739",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983262485,
+      "stop" : 1675983262664,
+      "duration" : 179
+    },
+    "flaky" : false,
+    "parameters" : [ "@missingatsign.com" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.13 ",
+    "uid" : "d33fe8811f245bed",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983243445,
+      "stop" : 1675983243625,
+      "duration" : 180
+    },
+    "flaky" : false,
+    "parameters" : [ "12a3456789" ]
+  }, {
+    "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.12 ",
+    "uid" : "1ceeedec5d5cd3d6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983235403,
+      "stop" : 1675983235572,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "parameters" : [ "דהו!" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.1 ",
+    "uid" : "28486102277bfe8d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983510186,
+      "stop" : 1675983510438,
+      "duration" : 252
+    },
+    "flaky" : false,
+    "parameters" : [ "user@.com" ]
+  }, {
+    "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.14 ",
+    "uid" : "10f98e4d61ffb4cc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983243626,
+      "stop" : 1675983243794,
+      "duration" : 168
+    },
+    "flaky" : false,
+    "parameters" : [ "12b3456789" ]
+  }, {
+    "name" : "First name field test with valid values -- @1.2 ",
+    "uid" : "4965ca694a914f9f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983233052,
+      "stop" : 1675983233160,
+      "duration" : 108
+    },
+    "flaky" : false,
+    "parameters" : [ "דגכככככככככ" ]
+  }, {
+    "name" : "Email field test with valid values -- @1.9 ",
+    "uid" : "8f43f607405f212",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983265240,
+      "stop" : 1675983265360,
+      "duration" : 120
+    },
+    "flaky" : false,
+    "parameters" : [ "user@sub.example.com" ]
+  }, {
+    "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.11 ",
+    "uid" : "b51f7988ac9f1dcb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983262855,
+      "stop" : 1675983263041,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "parameters" : [ "two@@missingatsigns.com" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.3 ",
+    "uid" : "8c43a5ccf5815b10",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983523087,
+      "stop" : 1675983523260,
+      "duration" : 173
+    },
+    "flaky" : false,
+    "parameters" : [ "אבגד/()'.,_-זחט@" ]
+  }, {
+    "name" : "test  Postal Code input for invalid values -- @1.23 ",
+    "uid" : "53d36cdede6b5976",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983518953,
+      "stop" : 1675983519137,
+      "duration" : 184
+    },
+    "flaky" : false,
+    "parameters" : [ "זחט@" ]
+  }, {
+    "name" : "test  home number input for invalid values -- @1.21 ",
+    "uid" : "3b96f6d0f5fdcfd5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675983526217,
+      "stop" : 1675983526396,
+      "duration" : 179
+    },
+    "flaky" : false,
+    "parameters" : [ "אבג/12" ]
+  } ]
+}

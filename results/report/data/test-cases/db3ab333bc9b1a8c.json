@@ -1,0 +1,101 @@
+{
+  "uid" : "db3ab333bc9b1a8c",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+  "fullName" : "Testing confirmation for structure page: First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message",
+  "historyId" : "c7b95e2116842406a07c4ef1044767c2",
+  "time" : {
+    "start" : 1675983229507,
+    "stop" : 1675983229627,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I navigate to \"ConfirmationForStructure\" page",
+      "time" : {
+        "start" : 1675983229507,
+        "stop" : 1675983229507,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When I write \"בגדי&\" in \"שם פרטי\"",
+      "time" : {
+        "start" : 1675983229507,
+        "stop" : 1675983229567,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then field \"שם פרטי\" has invalid value and with alert \"יש להזין אותיות בעברית בלבד ותווים מיוחדים\"",
+      "time" : {
+        "start" : 1675983229567,
+        "stop" : 1675983229627,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "Testing confirmation for structure page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "text",
+    "value" : "בגדי&"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db3ab333bc9b1a8c.json",
+  "parameterValues" : [ "בגדי&" ]
+}

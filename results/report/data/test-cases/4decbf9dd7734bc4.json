@@ -1,0 +1,121 @@
+{
+  "uid" : "4decbf9dd7734bc4",
+  "name" : "Header check if displayed",
+  "fullName" : "Testing confirmation for structure page: Header check if displayed",
+  "historyId" : "7055501fa0b09cb4cfd8416951e5e910",
+  "time" : {
+    "start" : 1676289642377,
+    "stop" : 1676289651119,
+    "duration" : 8742
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I navigate to \"ConfirmationForStructure\" page",
+      "time" : {
+        "start" : 1676289642378,
+        "stop" : 1676289650233,
+        "duration" : 7855
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then I check if the header is exist",
+      "time" : {
+        "start" : 1676289650233,
+        "stop" : 1676289650770,
+        "duration" : 537
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then I check that the form only have \"3\" pages",
+      "time" : {
+        "start" : 1676289650770,
+        "stop" : 1676289651028,
+        "duration" : 258
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then I check that the current page number is  \"1\"",
+      "time" : {
+        "start" : 1676289651028,
+        "stop" : 1676289651119,
+        "duration" : 91
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "Testing confirmation for structure page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "6446b700e2d3dd1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675983222478,
+        "stop" : 1675983226677,
+        "duration" : 4199
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4decbf9dd7734bc4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,101 @@
+{
+  "uid" : "33f772605dc23d53",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+  "fullName" : "Testing FreedomInfo page: First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message",
+  "historyId" : "ab05b155cb7a6e423f5f23b2f6e1d9c3",
+  "time" : {
+    "start" : 1675983478977,
+    "stop" : 1675983479119,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I navigate to \"FreedomInfo\" page",
+      "time" : {
+        "start" : 1675983478977,
+        "stop" : 1675983478977,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When I write \"הוזח*\" in \"שם פרטי\"",
+      "time" : {
+        "start" : 1675983478977,
+        "stop" : 1675983479042,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then field \"שם פרטי\" has invalid value and with alert \"יש להזין אותיות בעברית בלבד ותווים מיוחדים\"",
+      "time" : {
+        "start" : 1675983479042,
+        "stop" : 1675983479119,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "Testing FreedomInfo page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "text",
+    "value" : "הוזח*"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33f772605dc23d53.json",
+  "parameterValues" : [ "הוזח*" ]
+}

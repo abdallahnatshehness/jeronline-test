@@ -1,0 +1,101 @@
+{
+  "uid" : "af68ae089206e6c4",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.18 ",
+  "fullName" : "Testing confirmation for structure page: I.D. field test with invalid values to test the alert \"not correct\" message",
+  "historyId" : "f462b92189d5a067764adff59297944b",
+  "time" : {
+    "start" : 1675983244334,
+    "stop" : 1675983244500,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I navigate to \"ConfirmationForStructure\" page",
+      "time" : {
+        "start" : 1675983244335,
+        "stop" : 1675983244335,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When I write \"12f3456789\" in \"מספר ת.ז.\"",
+      "time" : {
+        "start" : 1675983244335,
+        "stop" : 1675983244410,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then field \"מספר ת.ז.\" has invalid value and with alert \"מספר זהות לא תקין\"",
+      "time" : {
+        "start" : 1675983244410,
+        "stop" : 1675983244500,
+        "duration" : 90
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "Testing confirmation for structure page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "text",
+    "value" : "12f3456789"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af68ae089206e6c4.json",
+  "parameterValues" : [ "12f3456789" ]
+}

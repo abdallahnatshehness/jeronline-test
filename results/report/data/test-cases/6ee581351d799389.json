@@ -1,0 +1,101 @@
+{
+  "uid" : "6ee581351d799389",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+  "fullName" : "Testing confirmation for structure page: Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message",
+  "historyId" : "bc278eef09b5ee6aff6de959cce98c22",
+  "time" : {
+    "start" : 1675983234659,
+    "stop" : 1675983234844,
+    "duration" : 185
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I navigate to \"ConfirmationForStructure\" page",
+      "time" : {
+        "start" : 1675983234660,
+        "stop" : 1675983234660,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When I write \"אבגד/()'.,_-זחט&\" in \"שם משפחה\"",
+      "time" : {
+        "start" : 1675983234660,
+        "stop" : 1675983234748,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then field \"שם משפחה\" has invalid value and with alert \"יש להזין אותיות בעברית בלבד ותווים מיוחדים\"",
+      "time" : {
+        "start" : 1675983234748,
+        "stop" : 1675983234844,
+        "duration" : 96
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "Testing confirmation for structure page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "text",
+    "value" : "אבגד/()'.,_-זחט&"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ee581351d799389.json",
+  "parameterValues" : [ "אבגד/()'.,_-זחט&" ]
+}

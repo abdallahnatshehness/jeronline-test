@@ -1,0 +1,117 @@
+{
+  "uid" : "1e48d3e0eaf542a5",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+  "fullName" : "Testing confirmation for structure page: Mobile phone field test with invalid values to test \"missing numbers\" alert",
+  "historyId" : "e16d981b9ced418dd0942c7f7b73e3b9",
+  "time" : {
+    "start" : 1675983249048,
+    "stop" : 1675983249883,
+    "duration" : 835
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: Field טלפון נייד  considered as valid in the invalid test\n",
+  "statusTrace" : "  File \"C:\\Users\\LENOVO\\Desktop\\JERUSALEMMUNI\\venv\\Lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\Users\\LENOVO\\Desktop\\JERUSALEMMUNI\\venv\\Lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"steps\\general.py\", line 162, in field_has_invalid_value\n    assert widget.is_invalid is True and widget.is_valid is False and widget.check_alert_text(\n                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: Field טלפון נייד  considered as valid in the invalid test\n",
+    "statusTrace" : "  File \"C:\\Users\\LENOVO\\Desktop\\JERUSALEMMUNI\\venv\\Lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\Users\\LENOVO\\Desktop\\JERUSALEMMUNI\\venv\\Lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"steps\\general.py\", line 162, in field_has_invalid_value\n    assert widget.is_invalid is True and widget.is_valid is False and widget.check_alert_text(\n                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^\n",
+    "steps" : [ {
+      "name" : "Given I navigate to \"ConfirmationForStructure\" page",
+      "time" : {
+        "start" : 1675983249049,
+        "stop" : 1675983249049,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When I write \"123-تننتاتنا\" in \"טלפון נייד\"",
+      "time" : {
+        "start" : 1675983249049,
+        "stop" : 1675983249633,
+        "duration" : 584
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then field \"טלפון נייד\" has invalid value and with alert \"יש להשלים את הספרות החסרות\"",
+      "time" : {
+        "start" : 1675983249634,
+        "stop" : 1675983249883,
+        "duration" : 249
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError: Field טלפון נייד  considered as valid in the invalid test\n",
+      "statusTrace" : "  File \"C:\\Users\\LENOVO\\Desktop\\JERUSALEMMUNI\\venv\\Lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\Users\\LENOVO\\Desktop\\JERUSALEMMUNI\\venv\\Lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"steps\\general.py\", line 162, in field_has_invalid_value\n    assert widget.is_invalid is True and widget.is_valid is False and widget.check_alert_text(\n                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8faf106dca80ec62",
+        "name" : "ScreenShot After Failure",
+        "source" : "8faf106dca80ec62.png",
+        "type" : "image/png",
+        "size" : 74837
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "Testing confirmation for structure page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "text",
+    "value" : "123-تننتاتنا"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1e48d3e0eaf542a5.json",
+  "parameterValues" : [ "123-تننتاتنا" ]
+}

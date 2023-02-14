@@ -1,0 +1,4411 @@
+[ {
+  "uid" : "2f8eb1874871893f",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.14 ",
+  "time" : {
+    "start" : 1676289654107,
+    "stop" : 1676289654204,
+    "duration" : 97
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "6692418ec969607a",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.2 ",
+  "time" : {
+    "start" : 1676289651552,
+    "stop" : 1676289651861,
+    "duration" : 309
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a147cf21672090d4",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.14 ",
+  "time" : {
+    "start" : 1675983476445,
+    "stop" : 1675983476567,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "599ba157d8ac3334",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.11 ",
+  "time" : {
+    "start" : 1675983476062,
+    "stop" : 1675983476187,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "afbd91dcc2ee6bf1",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.11 ",
+  "time" : {
+    "start" : 1675983243100,
+    "stop" : 1675983243267,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "759b857636ff3785",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.6 ",
+  "time" : {
+    "start" : 1675983475301,
+    "stop" : 1675983475439,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f3b43d3283ec5dbb",
+  "name" : "Email field test with valid values -- @1.4 ",
+  "time" : {
+    "start" : 1675983264619,
+    "stop" : 1675983264754,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3c81689d72504669",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.3 ",
+  "time" : {
+    "start" : 1675983495118,
+    "stop" : 1675983495816,
+    "duration" : 698
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2b89506f2d46caa9",
+  "name" : "Header check if displayed",
+  "time" : {
+    "start" : 1675983470425,
+    "stop" : 1675983474459,
+    "duration" : 4034
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "956b0434f6ecfd5b",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.29 ",
+  "time" : {
+    "start" : 1675983478455,
+    "stop" : 1675983478585,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fe75239e5e5ce529",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.10 ",
+  "time" : {
+    "start" : 1675983475928,
+    "stop" : 1675983476061,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5882dff58609082b",
+  "name" : "Email field test with valid values -- @1.6 ",
+  "time" : {
+    "start" : 1675983514341,
+    "stop" : 1675983514479,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "52df79b20e809571",
+  "name" : "test  Postal Code for valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983522431,
+    "stop" : 1675983522535,
+    "duration" : 104
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "155f04fe7a1866c8",
+  "name" : "test  passport number input for invalid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983531735,
+    "stop" : 1675983531983,
+    "duration" : 248
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "40dc7bb62d0ac47d",
+  "name" : "Fill valid values except Land-line Number field, then click continue button to check the process,",
+  "time" : {
+    "start" : 1675983277473,
+    "stop" : 1675983278630,
+    "duration" : 1157
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cbbd42bb7ba86fb",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.1 ",
+  "time" : {
+    "start" : 1675983493763,
+    "stop" : 1675983494647,
+    "duration" : 884
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "82aee1156cdb7903",
+  "name" : "test  home number input for invalid values -- @1.22 ",
+  "time" : {
+    "start" : 1675983526397,
+    "stop" : 1675983526564,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "6dbd2759c1641967",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.9 ",
+  "time" : {
+    "start" : 1675983475758,
+    "stop" : 1675983475927,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3440e554fd9ae456",
+  "name" : "test  home number input for invalid values -- @1.29 ",
+  "time" : {
+    "start" : 1675983527624,
+    "stop" : 1675983527805,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "164c44e1ec7bb6af",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.7 ",
+  "time" : {
+    "start" : 1675983482123,
+    "stop" : 1675983482319,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "193a610fbde61b0b",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.5 ",
+  "time" : {
+    "start" : 1675983499802,
+    "stop" : 1675983500235,
+    "duration" : 433
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6b358231f6534ad5",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.3 ",
+  "time" : {
+    "start" : 1675983474873,
+    "stop" : 1675983475010,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ee828cd2fc7a2e0e",
+  "name" : "Fill valid values in all fields and click continue button to check the process,",
+  "time" : {
+    "start" : 1675983270154,
+    "stop" : 1675983271620,
+    "duration" : 1466
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bedac409b0e04c8",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.2 ",
+  "time" : {
+    "start" : 1675983490449,
+    "stop" : 1675983490629,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "131015b0d3951b6d",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.31 ",
+  "time" : {
+    "start" : 1675983238784,
+    "stop" : 1675983238969,
+    "duration" : 185
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1bccc8f38f7f14eb",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.6 ",
+  "time" : {
+    "start" : 1676289652889,
+    "stop" : 1676289653260,
+    "duration" : 371
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "50efaba9ae2e887d",
+  "name" : "test  passport number input for invalid values -- @1.7 ",
+  "time" : {
+    "start" : 1675983532961,
+    "stop" : 1675983533158,
+    "duration" : 197
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "a10f4d28cf08e0e2",
+  "name" : "test  passport number input for invalid values -- @1.10 ",
+  "time" : {
+    "start" : 1675983533530,
+    "stop" : 1675983533803,
+    "duration" : 273
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "e3be6f905a9fa174",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.12 ",
+  "time" : {
+    "start" : 1675983512448,
+    "stop" : 1675983512640,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8c7a846024f6d5b3",
+  "name" : "test  Postal Code input for invalid values -- @1.31 ",
+  "time" : {
+    "start" : 1675983520369,
+    "stop" : 1675983520645,
+    "duration" : 276
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "b6bc2d3b671e288",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.31 ",
+  "time" : {
+    "start" : 1675983478725,
+    "stop" : 1675983478849,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8b4ef7cb8c8dcf41",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.5 ",
+  "time" : {
+    "start" : 1675983247336,
+    "stop" : 1675983247923,
+    "duration" : 587
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "ae68a1aa91ec0a0",
+  "name" : "test  home number input for invalid values -- @1.35 ",
+  "time" : {
+    "start" : 1675983528771,
+    "stop" : 1675983528952,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "165614160733a2ea",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.4 ",
+  "time" : {
+    "start" : 1675983254867,
+    "stop" : 1675983255581,
+    "duration" : 714
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "1fdb1c8591033154",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.37 ",
+  "time" : {
+    "start" : 1675983240011,
+    "stop" : 1675983240277,
+    "duration" : 266
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "1ae8a627063b43f3",
+  "name" : "test  Postal Code input for invalid values -- @1.40 ",
+  "time" : {
+    "start" : 1675983522035,
+    "stop" : 1675983522207,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "2e6d6173c285e6f1",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.2 ",
+  "time" : {
+    "start" : 1675983233531,
+    "stop" : 1675983233715,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7bb032c42e45b468",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.17 ",
+  "time" : {
+    "start" : 1675983476826,
+    "stop" : 1675983476947,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c8702d3db3fa4712",
+  "name" : "Footer check if displayed",
+  "time" : {
+    "start" : 1676289651120,
+    "stop" : 1676289651122,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7ffeaab9416294c6",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.39 ",
+  "time" : {
+    "start" : 1675983240456,
+    "stop" : 1675983240627,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "76c06f7076106453",
+  "name" : "Email field test with valid values -- @1.10 ",
+  "time" : {
+    "start" : 1675983514865,
+    "stop" : 1675983514990,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a52bb2796c7f5b45",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.37 ",
+  "time" : {
+    "start" : 1675983487778,
+    "stop" : 1675983488043,
+    "duration" : 265
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "16ec7de3a759b40f",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.5 ",
+  "time" : {
+    "start" : 1675983508136,
+    "stop" : 1675983508719,
+    "duration" : 583
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "bcbf1d525639e70a",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.9 ",
+  "time" : {
+    "start" : 1675983491873,
+    "stop" : 1675983492052,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "96b571d711a3c5ef",
+  "name" : "test  Postal Code input for invalid values -- @1.17 ",
+  "time" : {
+    "start" : 1675983517901,
+    "stop" : 1675983518066,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "c04191abb55207d1",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+  "time" : {
+    "start" : 1675983257462,
+    "stop" : 1675983258187,
+    "duration" : 725
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "fc505db74b796a9b",
+  "name" : "test  passport number input for valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983535106,
+    "stop" : 1675983535211,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8841778496263215",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.6 ",
+  "time" : {
+    "start" : 1675983242187,
+    "stop" : 1675983242367,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4af2d8c9c9c3faa6",
+  "name" : "First name field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983480592,
+    "stop" : 1675983480733,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "eb8ef25ae80723e7",
+  "name" : "test  Postal Code input for invalid values -- @1.18 ",
+  "time" : {
+    "start" : 1675983518067,
+    "stop" : 1675983518238,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "c5eccf75a8f73e02",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.4 ",
+  "time" : {
+    "start" : 1675983481523,
+    "stop" : 1675983481717,
+    "duration" : 194
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "bd36a87cec2eb753",
+  "name" : "Email field test with valid values -- @1.7 ",
+  "time" : {
+    "start" : 1675983264993,
+    "stop" : 1675983265109,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2391994ab83a4797",
+  "name" : "test  Postal Code input for invalid values -- @1.30 ",
+  "time" : {
+    "start" : 1675983520195,
+    "stop" : 1675983520368,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "2c5ee9de2bb91ab4",
+  "name" : "First name field test with valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983233161,
+    "stop" : 1675983233265,
+    "duration" : 104
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "478b7549f126ef49",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.2 ",
+  "time" : {
+    "start" : 1675983494648,
+    "stop" : 1675983495117,
+    "duration" : 469
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "218f7a6befb81708",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.37 ",
+  "time" : {
+    "start" : 1675983479663,
+    "stop" : 1675983479949,
+    "duration" : 286
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "6e5c2564a730f63c",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.11 ",
+  "time" : {
+    "start" : 1675983235218,
+    "stop" : 1675983235396,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c4dfca1ce9d155eb",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.31 ",
+  "time" : {
+    "start" : 1675983231143,
+    "stop" : 1675983231273,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "db3ab333bc9b1a8c",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+  "time" : {
+    "start" : 1675983229507,
+    "stop" : 1675983229627,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "dba37693eda486b4",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.3 ",
+  "time" : {
+    "start" : 1675983241583,
+    "stop" : 1675983241750,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "53e8a24b35b1122e",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.5 ",
+  "time" : {
+    "start" : 1675983258768,
+    "stop" : 1675983259342,
+    "duration" : 574
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4d8777ee1b53437d",
+  "name" : "test  Postal Code input for invalid values -- @1.13 ",
+  "time" : {
+    "start" : 1675983517214,
+    "stop" : 1675983517382,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d3260f70ef2c55f0",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.32 ",
+  "time" : {
+    "start" : 1675983238970,
+    "stop" : 1675983239148,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "89814ff632425d4e",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.38 ",
+  "time" : {
+    "start" : 1675983240278,
+    "stop" : 1675983240455,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "51e3877a87f04308",
+  "name" : "Email field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983264265,
+    "stop" : 1675983264379,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6ee581351d799389",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+  "time" : {
+    "start" : 1675983234659,
+    "stop" : 1675983234844,
+    "duration" : 185
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2972533d680249bc",
+  "name" : "change the page language to arabic and test first name input in the invalid case",
+  "time" : {
+    "start" : 1675983405981,
+    "stop" : 1675983410792,
+    "duration" : 4811
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "c7e0c7cc65ecee0f",
+  "name" : "test  Postal Code input for invalid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983515431,
+    "stop" : 1675983515600,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "84a13a3c3a4fda35",
+  "name" : "test  passport number input for invalid values -- @1.11 ",
+  "time" : {
+    "start" : 1675983533804,
+    "stop" : 1675983534058,
+    "duration" : 254
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "f35fd63a49fb59b3",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.7 ",
+  "time" : {
+    "start" : 1675983491510,
+    "stop" : 1675983491696,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d1a27661c4f3855c",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.36 ",
+  "time" : {
+    "start" : 1675983487599,
+    "stop" : 1675983487777,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "74e670c338f67655",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.34 ",
+  "time" : {
+    "start" : 1675983239330,
+    "stop" : 1675983239518,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1fe3530647d438ee",
+  "name" : "test  home number input for valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983529835,
+    "stop" : 1675983529941,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "eeff6c06a416c183",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.1 ",
+  "time" : {
+    "start" : 1675983490202,
+    "stop" : 1675983490448,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8c178810bc2a0ab9",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.4 ",
+  "time" : {
+    "start" : 1675983261382,
+    "stop" : 1675983261562,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9f58428f25c886e4",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.8 ",
+  "time" : {
+    "start" : 1675983262288,
+    "stop" : 1675983262484,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1aac526283ebf499",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.19 ",
+  "time" : {
+    "start" : 1675983477071,
+    "stop" : 1675983477193,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "92ea9be8775e52a5",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.22 ",
+  "time" : {
+    "start" : 1675983477497,
+    "stop" : 1675983477623,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ed0f196404ae879",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.40 ",
+  "time" : {
+    "start" : 1675983488411,
+    "stop" : 1675983488614,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4eaef02a686929ef",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.14 ",
+  "time" : {
+    "start" : 1675983483497,
+    "stop" : 1675983483678,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "628f4d267d99811f",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.17 ",
+  "time" : {
+    "start" : 1675983236292,
+    "stop" : 1675983236476,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c888e2e6755a08a",
+  "name" : "change the page language to arabic and test first name input in the invalid case",
+  "time" : {
+    "start" : 1675983634320,
+    "stop" : 1675983639480,
+    "duration" : 5160
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b117eb42761a8e9a",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.3 ",
+  "time" : {
+    "start" : 1675983490630,
+    "stop" : 1675983490822,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9bd69f0d2dfb7da8",
+  "name" : "test  passport number input for invalid values -- @1.15 ",
+  "time" : {
+    "start" : 1675983534836,
+    "stop" : 1675983535105,
+    "duration" : 269
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "369bd73b445fdc1c",
+  "name" : "test for search dropdown",
+  "time" : {
+    "start" : 1675983535598,
+    "stop" : 1675983536170,
+    "duration" : 572
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7d9591d8b80c6ea6",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.6 ",
+  "time" : {
+    "start" : 1675983491310,
+    "stop" : 1675983491509,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "358fc9a3ee20f6f8",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.16 ",
+  "time" : {
+    "start" : 1675983493111,
+    "stop" : 1675983493289,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "57666795668f0993",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.1 ",
+  "time" : {
+    "start" : 1675983505620,
+    "stop" : 1675983506222,
+    "duration" : 602
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "428b21b1fe147909",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.13 ",
+  "time" : {
+    "start" : 1675983492577,
+    "stop" : 1675983492750,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d6d064161c3cc6f",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.5 ",
+  "time" : {
+    "start" : 1675983234098,
+    "stop" : 1675983234280,
+    "duration" : 182
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "af1c30b7b39803fa",
+  "name" : "test  Postal Code input for invalid values -- @1.5 ",
+  "time" : {
+    "start" : 1675983515779,
+    "stop" : 1675983515977,
+    "duration" : 198
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b7e9e89808a00dc1",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.14 ",
+  "time" : {
+    "start" : 1675983235744,
+    "stop" : 1675983235939,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e69928479a38c7ff",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.14 ",
+  "time" : {
+    "start" : 1675983263530,
+    "stop" : 1675983263719,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3bc1a9c75443e00c",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.16 ",
+  "time" : {
+    "start" : 1675983513398,
+    "stop" : 1675983513693,
+    "duration" : 295
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "db9343d08f5051e9",
+  "name" : "test  Postal Code input for invalid values -- @1.27 ",
+  "time" : {
+    "start" : 1675983519655,
+    "stop" : 1675983519829,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "f1d2dd2f36ea2eb",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.39 ",
+  "time" : {
+    "start" : 1675983488237,
+    "stop" : 1675983488410,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "551556844553ca87",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+  "time" : {
+    "start" : 1675983482319,
+    "stop" : 1675983482542,
+    "duration" : 223
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e0865670e71af8a1",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.40 ",
+  "time" : {
+    "start" : 1675983232761,
+    "stop" : 1675983232951,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a5b403b0ede8e065",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.35 ",
+  "time" : {
+    "start" : 1675983239519,
+    "stop" : 1675983239834,
+    "duration" : 315
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "3ac23c50c2288762",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.5 ",
+  "time" : {
+    "start" : 1675983491124,
+    "stop" : 1675983491307,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1b969a11af867941",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.3 ",
+  "time" : {
+    "start" : 1675983233715,
+    "stop" : 1675983233903,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d35c770dab2e19f2",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.2 ",
+  "time" : {
+    "start" : 1675983241403,
+    "stop" : 1675983241582,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "82c7c66880e8a8a1",
+  "name" : "test  home number input for invalid values -- @1.12 ",
+  "time" : {
+    "start" : 1675983524684,
+    "stop" : 1675983524850,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "2da5ed8b618aabea",
+  "name" : "test  home number input for invalid values -- @1.7 ",
+  "time" : {
+    "start" : 1675983523793,
+    "stop" : 1675983523965,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "408a718b625a55bf",
+  "name" : "Email field test with valid values -- @1.8 ",
+  "time" : {
+    "start" : 1675983514610,
+    "stop" : 1675983514738,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "aac9b1612e1d789c",
+  "name" : "unit test to choose id type - ID NUMBER - -- @1.3 ",
+  "time" : {
+    "start" : 1675983489826,
+    "stop" : 1675983490201,
+    "duration" : 375
+  },
+  "status" : "broken",
+  "severity" : "minor"
+}, {
+  "uid" : "915c77f553b809dd",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.11 ",
+  "time" : {
+    "start" : 1675983512251,
+    "stop" : 1675983512447,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8071a5486fff6ccb",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.6 ",
+  "time" : {
+    "start" : 1675983234281,
+    "stop" : 1675983234465,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a6de655868c7883b",
+  "name" : "test  Postal Code input for invalid values -- @1.4 ",
+  "time" : {
+    "start" : 1675983515601,
+    "stop" : 1675983515778,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8d02f175a713c45c",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.9 ",
+  "time" : {
+    "start" : 1675983242715,
+    "stop" : 1675983242895,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3ba4676644b84e10",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.32 ",
+  "time" : {
+    "start" : 1675983231274,
+    "stop" : 1675983231415,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "723907deb4d0d957",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.17 ",
+  "time" : {
+    "start" : 1675983493290,
+    "stop" : 1675983493462,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "79b084772aeebe07",
+  "name" : "Mobile phone field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983251598,
+    "stop" : 1675983252132,
+    "duration" : 534
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "e0da01453e107bfa",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.4 ",
+  "time" : {
+    "start" : 1675983241751,
+    "stop" : 1675983242009,
+    "duration" : 258
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "a0cd3c37be91435f",
+  "name" : "test to choose id type - PASSPORT NUMBER - -- @1.1 ",
+  "time" : {
+    "start" : 1675983530245,
+    "stop" : 1675983530652,
+    "duration" : 407
+  },
+  "status" : "broken",
+  "severity" : "minor"
+}, {
+  "uid" : "6da12a92ff87e2db",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+  "time" : {
+    "start" : 1675983476947,
+    "stop" : 1675983477070,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1be777cda60b63e5",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.16 ",
+  "time" : {
+    "start" : 1675983476687,
+    "stop" : 1675983476818,
+    "duration" : 131
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9bcdac1d36d39b9d",
+  "name" : "test  home number input for invalid values -- @1.15 ",
+  "time" : {
+    "start" : 1675983525191,
+    "stop" : 1675983525363,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1384eb4bc15c9ff9",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+  "time" : {
+    "start" : 1675983239149,
+    "stop" : 1675983239329,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "863b903a85cb3fcb",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.19 ",
+  "time" : {
+    "start" : 1675983484417,
+    "stop" : 1675983484589,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f6c601a4f420ee3b",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.31 ",
+  "time" : {
+    "start" : 1675983486585,
+    "stop" : 1675983486781,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8a3abfa19b4471b6",
+  "name" : "Fill valid values except First Name field, then click continue button to check the process,",
+  "time" : {
+    "start" : 1675983540826,
+    "stop" : 1675983545451,
+    "duration" : 4625
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d72403cd40912c7",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.7 ",
+  "time" : {
+    "start" : 1675983475439,
+    "stop" : 1675983475590,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2d2c2e724e9b56f2",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.6 ",
+  "time" : {
+    "start" : 1675983481927,
+    "stop" : 1675983482122,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d21b2b8228ba05e5",
+  "name" : "test  Postal Code input for invalid values -- @1.11 ",
+  "time" : {
+    "start" : 1675983516851,
+    "stop" : 1675983517026,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "db2040a7beb1692",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.15 ",
+  "time" : {
+    "start" : 1675983492933,
+    "stop" : 1675983493110,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6e4a03e449a8d1e5",
+  "name" : "test  Postal Code input for invalid values -- @1.36 ",
+  "time" : {
+    "start" : 1675983521353,
+    "stop" : 1675983521521,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "69cec80edec0ad71",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.1 ",
+  "time" : {
+    "start" : 1675983252902,
+    "stop" : 1675983253668,
+    "duration" : 766
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "8e874ffc828ce095",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+  "time" : {
+    "start" : 1675983484224,
+    "stop" : 1675983484416,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4db4b73e9e452250",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.24 ",
+  "time" : {
+    "start" : 1675983230259,
+    "stop" : 1675983230373,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9d6f7e394bef29da",
+  "name" : "Email field test with valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983513925,
+    "stop" : 1675983514055,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "80e1d23b611f17de",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.13 ",
+  "time" : {
+    "start" : 1675983512641,
+    "stop" : 1675983512902,
+    "duration" : 261
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "9c1bc4e8bbdb65f8",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.29 ",
+  "time" : {
+    "start" : 1675983238435,
+    "stop" : 1675983238599,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "60840d1808e5c4ec",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.13 ",
+  "time" : {
+    "start" : 1675983476317,
+    "stop" : 1675983476444,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8d614427d1706833",
+  "name" : "test  Postal Code input for invalid values -- @1.15 ",
+  "time" : {
+    "start" : 1675983517549,
+    "stop" : 1675983517726,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "4da354593e53971a",
+  "name" : "test  Postal Code input for invalid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983514991,
+    "stop" : 1675983515248,
+    "duration" : 257
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "5b9a17b8f785c833",
+  "name" : "Land-line phone field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983509483,
+    "stop" : 1675983510185,
+    "duration" : 702
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "f303a644437d45f7",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.1 ",
+  "time" : {
+    "start" : 1675983244603,
+    "stop" : 1675983245454,
+    "duration" : 851
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "2820773aafaccfed",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.2 ",
+  "time" : {
+    "start" : 1675983253669,
+    "stop" : 1675983254282,
+    "duration" : 613
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6cfd4d4047085b0f",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.15 ",
+  "time" : {
+    "start" : 1675983235940,
+    "stop" : 1675983236114,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "13f62170461b3eb6",
+  "name" : "test  passport number input for invalid values -- @1.6 ",
+  "time" : {
+    "start" : 1675983532651,
+    "stop" : 1675983532960,
+    "duration" : 309
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "49b14774b507c69a",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.5 ",
+  "time" : {
+    "start" : 1675983481718,
+    "stop" : 1675983481926,
+    "duration" : 208
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3b3878eca328359b",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.32 ",
+  "time" : {
+    "start" : 1675983478850,
+    "stop" : 1675983478976,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a4024d33f2c74d1",
+  "name" : "test  home number input for invalid values -- @1.14 ",
+  "time" : {
+    "start" : 1675983525016,
+    "stop" : 1675983525190,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "7181a9cf0f3535c",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.10 ",
+  "time" : {
+    "start" : 1675983512063,
+    "stop" : 1675983512250,
+    "duration" : 187
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e88e47c8eb47efa5",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.22 ",
+  "time" : {
+    "start" : 1675983484950,
+    "stop" : 1675983485123,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7195af30840ddad1",
+  "name" : "test  Postal Code input for invalid values -- @1.25 ",
+  "time" : {
+    "start" : 1675983519315,
+    "stop" : 1675983519483,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "a1dd310cd354ea50",
+  "name" : "Fill valid values except I.D. no. field, then click continue button to check the process,",
+  "time" : {
+    "start" : 1675983273704,
+    "stop" : 1675983274724,
+    "duration" : 1020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b73afcbce0f261f",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.2 ",
+  "time" : {
+    "start" : 1675983506223,
+    "stop" : 1675983506808,
+    "duration" : 585
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e2c5c3743bb60553",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.10 ",
+  "time" : {
+    "start" : 1675983482746,
+    "stop" : 1675983482945,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4321821cc2f55049",
+  "name" : "test  passport number input for invalid values -- @1.9 ",
+  "time" : {
+    "start" : 1675983533345,
+    "stop" : 1675983533529,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "12f83cffa9fccf53",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.25 ",
+  "time" : {
+    "start" : 1675983477907,
+    "stop" : 1675983478034,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2414018c6d115023",
+  "name" : "test  home number input for invalid values -- @1.34 ",
+  "time" : {
+    "start" : 1675983528594,
+    "stop" : 1675983528770,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "7776ce7a6c9ac933",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.3 ",
+  "time" : {
+    "start" : 1675983510628,
+    "stop" : 1675983510827,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "32ae97816add0531",
+  "name" : "test  Postal Code input for invalid values -- @1.32 ",
+  "time" : {
+    "start" : 1675983520646,
+    "stop" : 1675983520824,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "423a5ba59dc02af0",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.26 ",
+  "time" : {
+    "start" : 1675983478035,
+    "stop" : 1675983478174,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d71eaae0b1145b6d",
+  "name" : "test  passport number input for invalid values -- @1.8 ",
+  "time" : {
+    "start" : 1675983533159,
+    "stop" : 1675983533344,
+    "duration" : 185
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "bc053bcd38a36163",
+  "name" : "test  passport number input for invalid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983531413,
+    "stop" : 1675983531734,
+    "duration" : 321
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "f0af9a84c8064ed6",
+  "name" : "Family name field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983488720,
+    "stop" : 1675983488835,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1cbaca85820d6550",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.13 ",
+  "time" : {
+    "start" : 1675983235573,
+    "stop" : 1675983235743,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c7afbbe9eb7284f7",
+  "name" : "test  passport number input for invalid values -- @1.12 ",
+  "time" : {
+    "start" : 1675983534059,
+    "stop" : 1675983534309,
+    "duration" : 250
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "32ba3d1f7b3aca9f",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.5 ",
+  "time" : {
+    "start" : 1675983250575,
+    "stop" : 1675983251004,
+    "duration" : 429
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "135d784378d3481d",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.3 ",
+  "time" : {
+    "start" : 1675983254283,
+    "stop" : 1675983254866,
+    "duration" : 583
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b511960152d1ebfc",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.8 ",
+  "time" : {
+    "start" : 1675983511680,
+    "stop" : 1675983511874,
+    "duration" : 194
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "df9f2192fe629bec",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.2 ",
+  "time" : {
+    "start" : 1675983497871,
+    "stop" : 1675983498303,
+    "duration" : 432
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7aeed691e19bd8df",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.4 ",
+  "time" : {
+    "start" : 1675983510828,
+    "stop" : 1675983511032,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7e833ed71653595d",
+  "name" : "test  home number input for invalid values -- @1.27 ",
+  "time" : {
+    "start" : 1675983527274,
+    "stop" : 1675983527444,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "9f4997c0e132ceed",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.36 ",
+  "time" : {
+    "start" : 1675983231950,
+    "stop" : 1675983232106,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "351a6409e3cb02dc",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.39 ",
+  "time" : {
+    "start" : 1675983480122,
+    "stop" : 1675983480298,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6511d6b233c4fd4c",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.14 ",
+  "time" : {
+    "start" : 1675983512903,
+    "stop" : 1675983513129,
+    "duration" : 226
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a1cc10eed7bbcf39",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.23 ",
+  "time" : {
+    "start" : 1675983485124,
+    "stop" : 1675983485296,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2e540d3612488e2e",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+  "time" : {
+    "start" : 1675983475591,
+    "stop" : 1675983475757,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "363ab0c04e522eab",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.9 ",
+  "time" : {
+    "start" : 1676289653648,
+    "stop" : 1676289653691,
+    "duration" : 43
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "624033f9c129c682",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.27 ",
+  "time" : {
+    "start" : 1675983485839,
+    "stop" : 1675983486015,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "78937cae79d886f8",
+  "name" : "test  Postal Code input for invalid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983515249,
+    "stop" : 1675983515430,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "7589d4c6d32df09a",
+  "name" : "Mobile phone field test with valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983501373,
+    "stop" : 1675983502142,
+    "duration" : 769
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "263315576e499c45",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.16 ",
+  "time" : {
+    "start" : 1675983236115,
+    "stop" : 1675983236291,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "eef276d54f9f31fd",
+  "name" : "test  home number input for invalid values -- @1.16 ",
+  "time" : {
+    "start" : 1675983525364,
+    "stop" : 1675983525528,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "93f63e8c2c9270e2",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.18 ",
+  "time" : {
+    "start" : 1675983493463,
+    "stop" : 1675983493654,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2d630a630637a5a7",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.5 ",
+  "time" : {
+    "start" : 1675983242009,
+    "stop" : 1675983242186,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9a0131d4136bfaa3",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.1 ",
+  "time" : {
+    "start" : 1675983497219,
+    "stop" : 1675983497871,
+    "duration" : 652
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "17c175595b9ccc97",
+  "name" : "Mobile phone field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983500837,
+    "stop" : 1675983501372,
+    "duration" : 535
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "c871bf9e17dc665a",
+  "name" : "test  passport number input for invalid values -- @1.14 ",
+  "time" : {
+    "start" : 1675983534579,
+    "stop" : 1675983534835,
+    "duration" : 256
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "9ab6892b6ad862c8",
+  "name" : "test  home number input for invalid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983522643,
+    "stop" : 1675983522896,
+    "duration" : 253
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8e4579bf278c9ac0",
+  "name" : "Email field test with valid values -- @1.6 ",
+  "time" : {
+    "start" : 1675983264876,
+    "stop" : 1675983264992,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "cf462fecce2a1cc7",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.5 ",
+  "time" : {
+    "start" : 1675983504890,
+    "stop" : 1675983505619,
+    "duration" : 729
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "f266e74641231f9f",
+  "name" : "test  Postal Code for valid values -- @1.4 ",
+  "time" : {
+    "start" : 1675983522536,
+    "stop" : 1675983522642,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8d8c4cf3ce76cdd6",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.1 ",
+  "time" : {
+    "start" : 1675983502143,
+    "stop" : 1675983502954,
+    "duration" : 811
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "57707d0915af6bff",
+  "name" : "I.D. field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983244501,
+    "stop" : 1675983244602,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "95a6b24879bfee4c",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.17 ",
+  "time" : {
+    "start" : 1675983229367,
+    "stop" : 1675983229506,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "add9897fcc0133d6",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.5 ",
+  "time" : {
+    "start" : 1675983255582,
+    "stop" : 1675983256319,
+    "duration" : 737
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "548fa3438ec4c712",
+  "name" : "test  Postal Code input for invalid values -- @1.39 ",
+  "time" : {
+    "start" : 1675983521868,
+    "stop" : 1675983522035,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "355ea3eb92f45d75",
+  "name" : "Land-line phone field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983508720,
+    "stop" : 1675983509482,
+    "duration" : 762
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "5a9c514b0ca1b4a6",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.4 ",
+  "time" : {
+    "start" : 1675983490823,
+    "stop" : 1675983491123,
+    "duration" : 300
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "fa3d16410c17bcd0",
+  "name" : "Footer check if displayed",
+  "time" : {
+    "start" : 1675983474459,
+    "stop" : 1675983474515,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4782f6cb6142eaeb",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.11 ",
+  "time" : {
+    "start" : 1675983492225,
+    "stop" : 1675983492400,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1e26c10b6547d53a",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.4 ",
+  "time" : {
+    "start" : 1675983507552,
+    "stop" : 1675983508135,
+    "duration" : 583
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8788f39de4a8bd94",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.9 ",
+  "time" : {
+    "start" : 1675983234844,
+    "stop" : 1675983235027,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e4fd71a4020f5931",
+  "name" : "test  home number input for invalid values -- @1.9 ",
+  "time" : {
+    "start" : 1675983524156,
+    "stop" : 1675983524330,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "a85d8c22cc76ee4b",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.24 ",
+  "time" : {
+    "start" : 1675983485297,
+    "stop" : 1675983485474,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fdcaf7437ed2445a",
+  "name" : "test  home number input for invalid values -- @1.5 ",
+  "time" : {
+    "start" : 1675983523443,
+    "stop" : 1675983523613,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "6ff949c678eb8a20",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.7 ",
+  "time" : {
+    "start" : 1675983242368,
+    "stop" : 1675983242543,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "33f772605dc23d53",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+  "time" : {
+    "start" : 1675983478977,
+    "stop" : 1675983479119,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fc88e2aefdb88c6d",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.8 ",
+  "time" : {
+    "start" : 1675983242544,
+    "stop" : 1675983242714,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5abdd72732f4391a",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.25 ",
+  "time" : {
+    "start" : 1675983237712,
+    "stop" : 1675983237884,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8b2b0ca016ccb405",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.2 ",
+  "time" : {
+    "start" : 1675983248606,
+    "stop" : 1675983249047,
+    "duration" : 441
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e4c63c1f3ca3b701",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.5 ",
+  "time" : {
+    "start" : 1676289652501,
+    "stop" : 1676289652884,
+    "duration" : 383
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c618ac5fa0ec6a91",
+  "name" : "Family name field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983240810,
+    "stop" : 1675983240927,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "45d25841b82fac4b",
+  "name" : "test  Postal Code input for invalid values -- @1.26 ",
+  "time" : {
+    "start" : 1675983519484,
+    "stop" : 1675983519654,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8e98337970cc3511",
+  "name" : "test  home number input for invalid values -- @1.33 ",
+  "time" : {
+    "start" : 1675983528415,
+    "stop" : 1675983528593,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "a329674c2a5a3997",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.11 ",
+  "time" : {
+    "start" : 1675983482946,
+    "stop" : 1675983483142,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7db22bfebaf94874",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.28 ",
+  "time" : {
+    "start" : 1675983486015,
+    "stop" : 1675983486212,
+    "duration" : 197
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "900187809396b6eb",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.38 ",
+  "time" : {
+    "start" : 1675983232409,
+    "stop" : 1675983232583,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5c3d0dcf4e72c18f",
+  "name" : "test  home number input for invalid values -- @1.13 ",
+  "time" : {
+    "start" : 1675983524851,
+    "stop" : 1675983525015,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "7a274c5bc1bf4442",
+  "name" : "Email field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983264380,
+    "stop" : 1675983264497,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6384f9b25c69c638",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.20 ",
+  "time" : {
+    "start" : 1675983236826,
+    "stop" : 1675983236995,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d80d7ca8428b789",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.20 ",
+  "time" : {
+    "start" : 1675983484590,
+    "stop" : 1675983484765,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e9af9ed0bf97c665",
+  "name" : "Land-line phone field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983259342,
+    "stop" : 1675983260058,
+    "duration" : 716
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "3293f4d68f401dc4",
+  "name" : "test  Postal Code input for invalid values -- @1.12 ",
+  "time" : {
+    "start" : 1675983517027,
+    "stop" : 1675983517213,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "2b91e15c0b3cd1bc",
+  "name" : "test  passport number input for invalid values -- @1.5 ",
+  "time" : {
+    "start" : 1675983532448,
+    "stop" : 1675983532650,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "f93a111671a9c7a",
+  "name" : "test  home number input for invalid values -- @1.18 ",
+  "time" : {
+    "start" : 1675983525710,
+    "stop" : 1675983525879,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "c911fe0436a0392e",
+  "name" : "test  Postal Code input for invalid values -- @1.7 ",
+  "time" : {
+    "start" : 1675983516152,
+    "stop" : 1675983516323,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "983d0258551b7b5b",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.29 ",
+  "time" : {
+    "start" : 1675983230888,
+    "stop" : 1675983231016,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2b465c9dedda7782",
+  "name" : "test  Postal Code input for invalid values -- @1.10 ",
+  "time" : {
+    "start" : 1675983516673,
+    "stop" : 1675983516850,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "39333a2ce1a09315",
+  "name" : "test  home number input for invalid values -- @1.17 ",
+  "time" : {
+    "start" : 1675983525529,
+    "stop" : 1675983525709,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d6f7f3cc1f7d4d72",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.1 ",
+  "time" : {
+    "start" : 1675983480843,
+    "stop" : 1675983481100,
+    "duration" : 257
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5ca8ab9f65e6d071",
+  "name" : "Email field test with valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983264498,
+    "stop" : 1675983264618,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b417efa7735a096d",
+  "name" : "test  Postal Code input for invalid values -- @1.38 ",
+  "time" : {
+    "start" : 1675983521699,
+    "stop" : 1675983521867,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "f4f66f8e25ddb7d2",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.36 ",
+  "time" : {
+    "start" : 1675983239835,
+    "stop" : 1675983240010,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "aa8d90ada408c67b",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.9 ",
+  "time" : {
+    "start" : 1675983482543,
+    "stop" : 1675983482745,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a2ef5551b197babd",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.2 ",
+  "time" : {
+    "start" : 1675983256890,
+    "stop" : 1675983257461,
+    "duration" : 571
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e2ae9098b1381ec2",
+  "name" : "First name field test with valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983480734,
+    "stop" : 1675983480842,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4decbf9dd7734bc4",
+  "name" : "Header check if displayed",
+  "time" : {
+    "start" : 1676289642377,
+    "stop" : 1676289651119,
+    "duration" : 8742
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3988e765769313bc",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.6 ",
+  "time" : {
+    "start" : 1675983511220,
+    "stop" : 1675983511488,
+    "duration" : 268
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "5609abc2c474e691",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.28 ",
+  "time" : {
+    "start" : 1675983478305,
+    "stop" : 1675983478454,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a3433922c660c497",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.4 ",
+  "time" : {
+    "start" : 1675983504166,
+    "stop" : 1675983504889,
+    "duration" : 723
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "2c4aeab687578b67",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.2 ",
+  "time" : {
+    "start" : 1675983245455,
+    "stop" : 1675983245911,
+    "duration" : 456
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2078f3a4f6a2a6c2",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.28 ",
+  "time" : {
+    "start" : 1675983238235,
+    "stop" : 1675983238434,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "995cc20acac97d2c",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.4 ",
+  "time" : {
+    "start" : 1675983495817,
+    "stop" : 1675983496624,
+    "duration" : 807
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "521078e613635a16",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.4 ",
+  "time" : {
+    "start" : 1675983233904,
+    "stop" : 1675983234097,
+    "duration" : 193
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9ec063ef16145dc",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.12 ",
+  "time" : {
+    "start" : 1675983492401,
+    "stop" : 1675983492576,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b850ed7380d08f4f",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.1 ",
+  "time" : {
+    "start" : 1675983233266,
+    "stop" : 1675983233530,
+    "duration" : 264
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7ab17b2220fbbb36",
+  "name" : "Email field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983513807,
+    "stop" : 1675983513924,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4d0944591a6eb11f",
+  "name" : "test  home number input for valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983529942,
+    "stop" : 1675983530042,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "4b558f9afa1df57f",
+  "name" : "test  home number input for invalid values -- @1.23 ",
+  "time" : {
+    "start" : 1675983526565,
+    "stop" : 1675983526734,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "7f93e2bc04ae4de5",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.12 ",
+  "time" : {
+    "start" : 1675983483143,
+    "stop" : 1675983483320,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "260f96694ac5e6a7",
+  "name" : "test  home number input for invalid values -- @1.24 ",
+  "time" : {
+    "start" : 1675983526735,
+    "stop" : 1675983526918,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1e48d3e0eaf542a5",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+  "time" : {
+    "start" : 1675983249048,
+    "stop" : 1675983249883,
+    "duration" : 835
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "a8868ea189450935",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.4 ",
+  "time" : {
+    "start" : 1675983475010,
+    "stop" : 1675983475153,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d1fb192f2f3ee022",
+  "name" : "test  passport number input for invalid values -- @1.13 ",
+  "time" : {
+    "start" : 1675983534310,
+    "stop" : 1675983534578,
+    "duration" : 268
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "576afa1e3530da6a",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.15 ",
+  "time" : {
+    "start" : 1675983243795,
+    "stop" : 1675983243967,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1f661332283faa0a",
+  "name" : "test to choose id type - PASSPORT NUMBER - -- @1.2 ",
+  "time" : {
+    "start" : 1675983530653,
+    "stop" : 1675983531020,
+    "duration" : 367
+  },
+  "status" : "broken",
+  "severity" : "minor"
+}, {
+  "uid" : "89ac482c4bff999c",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.4 ",
+  "time" : {
+    "start" : 1676289652181,
+    "stop" : 1676289652500,
+    "duration" : 319
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "29c3e6025b7934f0",
+  "name" : "test  home number input for invalid values -- @1.11 ",
+  "time" : {
+    "start" : 1675983524503,
+    "stop" : 1675983524683,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d3ab0917b1e0ab0a",
+  "name" : "Email field test with valid values -- @1.7 ",
+  "time" : {
+    "start" : 1675983514480,
+    "stop" : 1675983514609,
+    "duration" : 129
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "20748f750edfb195",
+  "name" : "test  Postal Code input for invalid values -- @1.22 ",
+  "time" : {
+    "start" : 1675983518774,
+    "stop" : 1675983518952,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b0a634eac5a4e893",
+  "name" : "test  Postal Code input for invalid values -- @1.6 ",
+  "time" : {
+    "start" : 1675983515978,
+    "stop" : 1675983516151,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8e0cd787f5155832",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.23 ",
+  "time" : {
+    "start" : 1675983230141,
+    "stop" : 1675983230259,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d88d264879955b74",
+  "name" : "test  passport number input for invalid values -- @1.4 ",
+  "time" : {
+    "start" : 1675983532251,
+    "stop" : 1675983532447,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "4dbcd80f69e6a912",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.2 ",
+  "time" : {
+    "start" : 1675983481101,
+    "stop" : 1675983481317,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "815a9c52a9e9682a",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.4 ",
+  "time" : {
+    "start" : 1675983246553,
+    "stop" : 1675983247335,
+    "duration" : 782
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "a0a83a0327cd4297",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.15 ",
+  "time" : {
+    "start" : 1675983263720,
+    "stop" : 1675983263997,
+    "duration" : 277
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "ce96c53da635f4da",
+  "name" : "test  Postal Code input for invalid values -- @1.16 ",
+  "time" : {
+    "start" : 1675983517727,
+    "stop" : 1675983517900,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "a02423c2127047c5",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.14 ",
+  "time" : {
+    "start" : 1675983492751,
+    "stop" : 1675983492932,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2991820fa103c656",
+  "name" : "Email field test with valid values -- @1.5 ",
+  "time" : {
+    "start" : 1675983514181,
+    "stop" : 1675983514340,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e4cd2a2852b005aa",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.1 ",
+  "time" : {
+    "start" : 1675983241139,
+    "stop" : 1675983241402,
+    "duration" : 263
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fff21d2587cf3248",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.13 ",
+  "time" : {
+    "start" : 1675983483321,
+    "stop" : 1675983483496,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "15a55696be06c40b",
+  "name" : "Fill valid values except Family Name field, then click continue button to check the process,",
+  "time" : {
+    "start" : 1675983272659,
+    "stop" : 1675983273703,
+    "duration" : 1044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9337721fb3ddfcfe",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.34 ",
+  "time" : {
+    "start" : 1675983479120,
+    "stop" : 1675983479255,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f40ab88dd99eccb9",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.30 ",
+  "time" : {
+    "start" : 1675983486389,
+    "stop" : 1675983486584,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9268c1dd1482c5ba",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.5 ",
+  "time" : {
+    "start" : 1675983475153,
+    "stop" : 1675983475300,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4a912cdbb8527820",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.29 ",
+  "time" : {
+    "start" : 1675983486213,
+    "stop" : 1675983486388,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "89316e93328e0b69",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.1 ",
+  "time" : {
+    "start" : 1675983256320,
+    "stop" : 1675983256889,
+    "duration" : 569
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e402ad779d42bb90",
+  "name" : "test  home number input for invalid values -- @1.37 ",
+  "time" : {
+    "start" : 1675983529142,
+    "stop" : 1675983529312,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "ac87874482c1d72a",
+  "name" : "test  Postal Code input for invalid values -- @1.20 ",
+  "time" : {
+    "start" : 1675983518424,
+    "stop" : 1675983518593,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "fe1905a23f7c0e2a",
+  "name" : "test  home number input for invalid values -- @1.8 ",
+  "time" : {
+    "start" : 1675983523966,
+    "stop" : 1675983524155,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "4c901ef48d9fa54",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.25 ",
+  "time" : {
+    "start" : 1675983230373,
+    "stop" : 1675983230496,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "22484e409815d5b4",
+  "name" : "test  passport number input for invalid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983531984,
+    "stop" : 1675983532250,
+    "duration" : 266
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "bf6d90e6758cf610",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.27 ",
+  "time" : {
+    "start" : 1675983478175,
+    "stop" : 1675983478305,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "133f4149066fe736",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.21 ",
+  "time" : {
+    "start" : 1675983484766,
+    "stop" : 1675983484949,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "226b700bbe77b1aa",
+  "name" : "test  Postal Code for valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983522328,
+    "stop" : 1675983522431,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e945d9ba5f37ce31",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.32 ",
+  "time" : {
+    "start" : 1675983486782,
+    "stop" : 1675983486966,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4b405b452d75603c",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.26 ",
+  "time" : {
+    "start" : 1675983230497,
+    "stop" : 1675983230631,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9600c3b0819aec75",
+  "name" : "Family name field test with valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983488836,
+    "stop" : 1675983488945,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c48a3a370dcdc76f",
+  "name" : "test  home number input for invalid values -- @1.32 ",
+  "time" : {
+    "start" : 1675983528229,
+    "stop" : 1675983528414,
+    "duration" : 185
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "24456e3f51c44e9d",
+  "name" : "test  home number input for invalid values -- @1.28 ",
+  "time" : {
+    "start" : 1675983527445,
+    "stop" : 1675983527622,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "af871f18802fddde",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+  "time" : {
+    "start" : 1675983231415,
+    "stop" : 1675983231540,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4aaa88250f98a1c8",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.3 ",
+  "time" : {
+    "start" : 1675983245912,
+    "stop" : 1675983246553,
+    "duration" : 641
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9475bed4efa3e99a",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.40 ",
+  "time" : {
+    "start" : 1675983240628,
+    "stop" : 1675983240809,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "48425a71d72f30ca",
+  "name" : "test  home number input for valid values -- @1.4 ",
+  "time" : {
+    "start" : 1675983530141,
+    "stop" : 1675983530244,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1d62f2bff6733181",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.3 ",
+  "time" : {
+    "start" : 1676289651862,
+    "stop" : 1676289652180,
+    "duration" : 318
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "291b98fd1d1ab891",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.12 ",
+  "time" : {
+    "start" : 1675983263041,
+    "stop" : 1675983263227,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8d06c7e966c00902",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.5 ",
+  "time" : {
+    "start" : 1675983511033,
+    "stop" : 1675983511219,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5f79f7b0c9f6b868",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.23 ",
+  "time" : {
+    "start" : 1675983477624,
+    "stop" : 1675983477751,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "52fd70cb65004fce",
+  "name" : "test  Postal Code input for invalid values -- @1.9 ",
+  "time" : {
+    "start" : 1675983516501,
+    "stop" : 1675983516672,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "fbbd238548596432",
+  "name" : "test  home number input for invalid values -- @1.19 ",
+  "time" : {
+    "start" : 1675983525880,
+    "stop" : 1675983526046,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "eb094028b06adcfd",
+  "name" : "test  Postal Code input for invalid values -- @1.21 ",
+  "time" : {
+    "start" : 1675983518594,
+    "stop" : 1675983518773,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b7510b64abca75e7",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.2 ",
+  "time" : {
+    "start" : 1675983261000,
+    "stop" : 1675983261186,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c6e94d6ecc847832",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.10 ",
+  "time" : {
+    "start" : 1676289653692,
+    "stop" : 1676289653765,
+    "duration" : 73
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "637e047068515e3c",
+  "name" : "Land-line phone field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983260059,
+    "stop" : 1675983260750,
+    "duration" : 691
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "79c6052aaee93aea",
+  "name" : "Email field test with valid values -- @1.4 ",
+  "time" : {
+    "start" : 1675983514056,
+    "stop" : 1675983514180,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b587adffd8b8038d",
+  "name" : "test  home number input for invalid values -- @1.20 ",
+  "time" : {
+    "start" : 1675983526047,
+    "stop" : 1675983526216,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "588dc0094e11cf30",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.13 ",
+  "time" : {
+    "start" : 1675983263228,
+    "stop" : 1675983263529,
+    "duration" : 301
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "6738d59b52e06ec9",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.17 ",
+  "time" : {
+    "start" : 1675983244159,
+    "stop" : 1675983244333,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "113c4d8065b98265",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.6 ",
+  "time" : {
+    "start" : 1675983261742,
+    "stop" : 1675983262079,
+    "duration" : 337
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "c5da18c369d21de",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.24 ",
+  "time" : {
+    "start" : 1675983237532,
+    "stop" : 1675983237711,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "29e854d2bd4a5fe4",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.5 ",
+  "time" : {
+    "start" : 1675983261563,
+    "stop" : 1675983261741,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4bb47fd2113fa408",
+  "name" : "Mobile phone field test with invalid values to test the alert \"Numbers only\" message -- @1.5 ",
+  "time" : {
+    "start" : 1675983496625,
+    "stop" : 1675983497218,
+    "duration" : 593
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "365bca2ceb3027b9",
+  "name" : "Fill valid values except First Name field, then click continue button to check the process,",
+  "time" : {
+    "start" : 1675983271621,
+    "stop" : 1675983272658,
+    "duration" : 1037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b0bf2051949de3b",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.15 ",
+  "time" : {
+    "start" : 1675983476567,
+    "stop" : 1675983476687,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b2beae93d4af985c",
+  "name" : "test  Postal Code input for invalid values -- @1.35 ",
+  "time" : {
+    "start" : 1675983521185,
+    "stop" : 1675983521352,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "a1b8e09a242c6958",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.34 ",
+  "time" : {
+    "start" : 1675983231541,
+    "stop" : 1675983231661,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "895f2615dc7dba85",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.16 ",
+  "time" : {
+    "start" : 1675983263998,
+    "stop" : 1675983264264,
+    "duration" : 266
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "bdc6edd29c84a73b",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.3 ",
+  "time" : {
+    "start" : 1675983261187,
+    "stop" : 1675983261381,
+    "duration" : 194
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7e3a3ca255a09925",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.2 ",
+  "time" : {
+    "start" : 1675983474720,
+    "stop" : 1675983474872,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1ecc77584260722e",
+  "name" : "test  home number input for invalid values -- @1.26 ",
+  "time" : {
+    "start" : 1675983527106,
+    "stop" : 1675983527273,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "4c7302b94ae3f69",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.3 ",
+  "time" : {
+    "start" : 1675983481318,
+    "stop" : 1675983481519,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "994d478921453236",
+  "name" : "First name field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983480480,
+    "stop" : 1675983480591,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "becd864d7e43d4cf",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.13 ",
+  "time" : {
+    "start" : 1676289653963,
+    "stop" : 1676289654101,
+    "duration" : 138
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "6d1f9f34c75e07ee",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.22 ",
+  "time" : {
+    "start" : 1675983237179,
+    "stop" : 1675983237355,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e05f65142358931e",
+  "name" : "unit test to choose id type - ID NUMBER - -- @1.2 ",
+  "time" : {
+    "start" : 1675983489419,
+    "stop" : 1675983489825,
+    "duration" : 406
+  },
+  "status" : "broken",
+  "severity" : "minor"
+}, {
+  "uid" : "49c01d8a12971ea8",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.2 ",
+  "time" : {
+    "start" : 1675983510439,
+    "stop" : 1675983510627,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "74f5c57f86e71df3",
+  "name" : "test  Postal Code input for invalid values -- @1.19 ",
+  "time" : {
+    "start" : 1675983518239,
+    "stop" : 1675983518423,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "193524bc67438ca3",
+  "name" : "I.D. field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983493654,
+    "stop" : 1675983493762,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "25f66d1fbf4bb098",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.1 ",
+  "time" : {
+    "start" : 1676289651123,
+    "stop" : 1676289651551,
+    "duration" : 428
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7a7ac2c2687c9482",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+  "time" : {
+    "start" : 1675983498304,
+    "stop" : 1675983499149,
+    "duration" : 845
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "30fa535b71d8b6a2",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.23 ",
+  "time" : {
+    "start" : 1675983237357,
+    "stop" : 1675983237531,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "919ef90d205c71e4",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.20 ",
+  "time" : {
+    "start" : 1675983229745,
+    "stop" : 1675983229865,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2548bc7dc1f4bed0",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.12 ",
+  "time" : {
+    "start" : 1675983243268,
+    "stop" : 1675983243444,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ec33e8f66412fff4",
+  "name" : "test  Postal Code for valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983522208,
+    "stop" : 1675983522327,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "df2ed6d3c265dd39",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.16 ",
+  "time" : {
+    "start" : 1675983483875,
+    "stop" : 1675983484048,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8bb583fc03bcf695",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.19 ",
+  "time" : {
+    "start" : 1675983229628,
+    "stop" : 1675983229745,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4b1e572e320c74b7",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.15 ",
+  "time" : {
+    "start" : 1675983483679,
+    "stop" : 1675983483874,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1cec73a93edfc36d",
+  "name" : "test  Postal Code input for invalid values -- @1.33 ",
+  "time" : {
+    "start" : 1675983520825,
+    "stop" : 1675983520992,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d96b621f06c6999a",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.12 ",
+  "time" : {
+    "start" : 1676289653836,
+    "stop" : 1676289653962,
+    "duration" : 126
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "d37d4485756850ca",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.7 ",
+  "time" : {
+    "start" : 1675983511489,
+    "stop" : 1675983511679,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "904e27479705aa48",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.26 ",
+  "time" : {
+    "start" : 1675983485658,
+    "stop" : 1675983485839,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2cfc63a30ee60b2",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.30 ",
+  "time" : {
+    "start" : 1675983478586,
+    "stop" : 1675983478725,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9f2a1990eaa2b799",
+  "name" : "test to choose id type - PASSPORT NUMBER - -- @1.3 ",
+  "time" : {
+    "start" : 1675983531021,
+    "stop" : 1675983531412,
+    "duration" : 391
+  },
+  "status" : "broken",
+  "severity" : "minor"
+}, {
+  "uid" : "cb6e12ea56064e2",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.24 ",
+  "time" : {
+    "start" : 1675983477751,
+    "stop" : 1675983477907,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e883f5a84c0fff14",
+  "name" : "Footer check if displayed",
+  "time" : {
+    "start" : 1676381064893,
+    "stop" : 1676381092165,
+    "duration" : 27272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "628aec2bd98bd3e5",
+  "name" : "test  home number input for invalid values -- @1.6 ",
+  "time" : {
+    "start" : 1675983523614,
+    "stop" : 1675983523792,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "6fc033b638c1f3e1",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.26 ",
+  "time" : {
+    "start" : 1675983237885,
+    "stop" : 1675983238056,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c21157af14f68799",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.17 ",
+  "time" : {
+    "start" : 1675983484049,
+    "stop" : 1675983484223,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fedcc71bce627076",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.7 ",
+  "time" : {
+    "start" : 1676289653263,
+    "stop" : 1676289653558,
+    "duration" : 295
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "d2ed0bc15dc5849f",
+  "name" : "Accessibility icon test",
+  "time" : {
+    "start" : 1675983536171,
+    "stop" : 1675983540825,
+    "duration" : 4654
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "479ca37ad9e299f",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.11 ",
+  "time" : {
+    "start" : 1676289653766,
+    "stop" : 1676289653833,
+    "duration" : 67
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "dcd7d3d8d5dcfefa",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.7 ",
+  "time" : {
+    "start" : 1675983234466,
+    "stop" : 1675983234658,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a4a327325c60ac85",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.37 ",
+  "time" : {
+    "start" : 1675983232107,
+    "stop" : 1675983232408,
+    "duration" : 301
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "f7d64d3231e3bcd5",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.10 ",
+  "time" : {
+    "start" : 1675983492053,
+    "stop" : 1675983492224,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7f8ad0548c33a5f1",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.15 ",
+  "time" : {
+    "start" : 1676289654205,
+    "stop" : 1676289654283,
+    "duration" : 78
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "631f7641322363a4",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.38 ",
+  "time" : {
+    "start" : 1675983488044,
+    "stop" : 1675983488236,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "93b088fa6555ab32",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.33 ",
+  "time" : {
+    "start" : 1675983486967,
+    "stop" : 1675983487147,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4dfddc0413ce105e",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.27 ",
+  "time" : {
+    "start" : 1675983238057,
+    "stop" : 1675983238234,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3d89e7c5837751b6",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.28 ",
+  "time" : {
+    "start" : 1675983230753,
+    "stop" : 1675983230887,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "35c8f7746d513140",
+  "name" : "Mobile phone field test with valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983252133,
+    "stop" : 1675983252901,
+    "duration" : 768
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "cbee69a182b1eee",
+  "name" : "Family name field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983488615,
+    "stop" : 1675983488720,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8c8f994a7355adab",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.30 ",
+  "time" : {
+    "start" : 1675983238600,
+    "stop" : 1675983238783,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8050201464c25e80",
+  "name" : "Accessibility icon test",
+  "time" : {
+    "start" : 1675983265480,
+    "stop" : 1675983270153,
+    "duration" : 4673
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3f2969ddcf7107c",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.9 ",
+  "time" : {
+    "start" : 1675983511875,
+    "stop" : 1675983512062,
+    "duration" : 187
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "43413987c62a8cdb",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.21 ",
+  "time" : {
+    "start" : 1675983229866,
+    "stop" : 1675983229991,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4645ef9f313ab14b",
+  "name" : "test  home number input for invalid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983522897,
+    "stop" : 1675983523086,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "c962297078033ca4",
+  "name" : "test  home number input for invalid values -- @1.30 ",
+  "time" : {
+    "start" : 1675983527806,
+    "stop" : 1675983527983,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "17b3be83571aeb97",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.25 ",
+  "time" : {
+    "start" : 1675983485474,
+    "stop" : 1675983485657,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e5bfefeb2d228be6",
+  "name" : "unit test to choose id type - ID NUMBER - -- @1.1 ",
+  "time" : {
+    "start" : 1675983488946,
+    "stop" : 1675983489418,
+    "duration" : 472
+  },
+  "status" : "broken",
+  "severity" : "minor"
+}, {
+  "uid" : "c1cc154f0ca33f08",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.16 ",
+  "time" : {
+    "start" : 1676289654285,
+    "stop" : 1676289654459,
+    "duration" : 174
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "47a83f623613f3ce",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.35 ",
+  "time" : {
+    "start" : 1675983231661,
+    "stop" : 1675983231949,
+    "duration" : 288
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "8b8e78d625ca5a35",
+  "name" : "Email field test with valid values -- @1.5 ",
+  "time" : {
+    "start" : 1675983264754,
+    "stop" : 1675983264875,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c0a3d3849d1e0e52",
+  "name" : "Email field test with valid values -- @1.8 ",
+  "time" : {
+    "start" : 1675983265110,
+    "stop" : 1675983265239,
+    "duration" : 129
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7eedc8dc65c5b1b3",
+  "name" : "test  Postal Code input for invalid values -- @1.14 ",
+  "time" : {
+    "start" : 1675983517383,
+    "stop" : 1675983517548,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b7c470d1d86fb186",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.34 ",
+  "time" : {
+    "start" : 1675983487148,
+    "stop" : 1675983487329,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "60b33188182f5ecb",
+  "name" : "Email field test with valid values -- @1.9 ",
+  "time" : {
+    "start" : 1675983514738,
+    "stop" : 1675983514864,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7e564472c471ad86",
+  "name" : "Email field test with valid values -- @1.10 ",
+  "time" : {
+    "start" : 1675983265361,
+    "stop" : 1675983265479,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a946fa1a06c2e76f",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.3 ",
+  "time" : {
+    "start" : 1675983503563,
+    "stop" : 1675983504165,
+    "duration" : 602
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a2c201bbaa74abb6",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.36 ",
+  "time" : {
+    "start" : 1675983479496,
+    "stop" : 1675983479663,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f422bd9ceb610943",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.7 ",
+  "time" : {
+    "start" : 1675983262080,
+    "stop" : 1675983262287,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a3a8f8dacb00782e",
+  "name" : "Fill valid values except Mobile Number field, then click continue button to check the process,",
+  "time" : {
+    "start" : 1675983274725,
+    "stop" : 1675983275728,
+    "duration" : 1003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af68ae089206e6c4",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.18 ",
+  "time" : {
+    "start" : 1675983244334,
+    "stop" : 1675983244500,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4aa438b8758f7b6c",
+  "name" : "Land-line phone field test with invalid values to test \"only numbers\" alert -- @1.2 ",
+  "time" : {
+    "start" : 1675983502955,
+    "stop" : 1675983503562,
+    "duration" : 607
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "503477c1ae2e7c4c",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.16 ",
+  "time" : {
+    "start" : 1675983243968,
+    "stop" : 1675983244159,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "70e4a57989b66e9f",
+  "name" : "change the page language to arabic and test first name input in the valid case",
+  "time" : {
+    "start" : 1675983639481,
+    "stop" : 1675983640645,
+    "duration" : 1164
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "76f3ccb80b14eb49",
+  "name" : "test  home number input for invalid values -- @1.39 ",
+  "time" : {
+    "start" : 1675983529484,
+    "stop" : 1675983529666,
+    "duration" : 182
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "58bd95fc1f9e5a05",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.21 ",
+  "time" : {
+    "start" : 1675983477342,
+    "stop" : 1675983477496,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "77c6f20a4f0be88d",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.4 ",
+  "time" : {
+    "start" : 1675983499150,
+    "stop" : 1675983499801,
+    "duration" : 651
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7ede346d20287e2d",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.30 ",
+  "time" : {
+    "start" : 1675983231017,
+    "stop" : 1675983231142,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "bebe0e313bf5e656",
+  "name" : "test  home number input for invalid values -- @1.4 ",
+  "time" : {
+    "start" : 1675983523261,
+    "stop" : 1675983523442,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "ca0704d9c63b21e8",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.35 ",
+  "time" : {
+    "start" : 1675983487331,
+    "stop" : 1675983487598,
+    "duration" : 267
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "cc147ebec38eaa53",
+  "name" : "test  Postal Code input for invalid values -- @1.37 ",
+  "time" : {
+    "start" : 1675983521522,
+    "stop" : 1675983521698,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "ee3947bdf4a35725",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.18 ",
+  "time" : {
+    "start" : 1675983236477,
+    "stop" : 1675983236653,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ebe766133252a30d",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.35 ",
+  "time" : {
+    "start" : 1675983479256,
+    "stop" : 1675983479495,
+    "duration" : 239
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "f098a10aaa25ec59",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.22 ",
+  "time" : {
+    "start" : 1675983229992,
+    "stop" : 1675983230141,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8a7f1c88a177adc",
+  "name" : "test  Postal Code input for invalid values -- @1.8 ",
+  "time" : {
+    "start" : 1675983516324,
+    "stop" : 1675983516500,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "988cc17dd3af7535",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.4 ",
+  "time" : {
+    "start" : 1675983249884,
+    "stop" : 1675983250574,
+    "duration" : 690
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b552571f1cfbcbe2",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.1 ",
+  "time" : {
+    "start" : 1675983260751,
+    "stop" : 1675983260999,
+    "duration" : 248
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9f5669aee878dad6",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.8 ",
+  "time" : {
+    "start" : 1676289653560,
+    "stop" : 1676289653647,
+    "duration" : 87
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "725b483946c0cd24",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.20 ",
+  "time" : {
+    "start" : 1675983477193,
+    "stop" : 1675983477341,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "77c649456e903904",
+  "name" : "test  home number input for invalid values -- @1.25 ",
+  "time" : {
+    "start" : 1675983526918,
+    "stop" : 1675983527105,
+    "duration" : 187
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "afe2c61f095f001c",
+  "name" : "Email field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983513694,
+    "stop" : 1675983513806,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4cd352fbb557bf3a",
+  "name" : "test  Postal Code input for invalid values -- @1.34 ",
+  "time" : {
+    "start" : 1675983520993,
+    "stop" : 1675983521184,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "6fd0fd99f565dbbc",
+  "name" : "test  home number input for invalid values -- @1.36 ",
+  "time" : {
+    "start" : 1675983528953,
+    "stop" : 1675983529141,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "10c0257c14ac6761",
+  "name" : "test  home number input for valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983530043,
+    "stop" : 1675983530140,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "17c4ae9e65aac73a",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.4 ",
+  "time" : {
+    "start" : 1675983258188,
+    "stop" : 1675983258766,
+    "duration" : 578
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8a6e014059153fda",
+  "name" : "test  home number input for invalid values -- @1.40 ",
+  "time" : {
+    "start" : 1675983529666,
+    "stop" : 1675983529834,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "19e3895c722d5cb3",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.19 ",
+  "time" : {
+    "start" : 1675983236654,
+    "stop" : 1675983236824,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "319d10223079af70",
+  "name" : "Mobile phone field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983500236,
+    "stop" : 1675983500836,
+    "duration" : 600
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "952c404ca7f83f51",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.15 ",
+  "time" : {
+    "start" : 1675983513131,
+    "stop" : 1675983513397,
+    "duration" : 266
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "df5659ecfef762f6",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.8 ",
+  "time" : {
+    "start" : 1675983491697,
+    "stop" : 1675983491872,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a570501054be923b",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.39 ",
+  "time" : {
+    "start" : 1675983232584,
+    "stop" : 1675983232760,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1e7b1f3ee78cef3d",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.10 ",
+  "time" : {
+    "start" : 1675983235028,
+    "stop" : 1675983235217,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c30f33f176087489",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.1 ",
+  "time" : {
+    "start" : 1675983474516,
+    "stop" : 1675983474719,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fb7e60291536bbb7",
+  "name" : "test  home number input for invalid values -- @1.31 ",
+  "time" : {
+    "start" : 1675983527984,
+    "stop" : 1675983528228,
+    "duration" : 244
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "f8d5bfd29e02eaea",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.10 ",
+  "time" : {
+    "start" : 1675983242896,
+    "stop" : 1675983243100,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7b0b9d1db541351e",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.40 ",
+  "time" : {
+    "start" : 1675983480299,
+    "stop" : 1675983480478,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f290fed99a0a2bc8",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.21 ",
+  "time" : {
+    "start" : 1675983236996,
+    "stop" : 1675983237178,
+    "duration" : 182
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "caa459de82a47702",
+  "name" : "test  Postal Code input for invalid values -- @1.29 ",
+  "time" : {
+    "start" : 1675983520017,
+    "stop" : 1675983520194,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1e3c9b830f3f6380",
+  "name" : "test  Postal Code input for invalid values -- @1.24 ",
+  "time" : {
+    "start" : 1675983519142,
+    "stop" : 1675983519314,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b6b4eddebad998dd",
+  "name" : "Family name field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983240928,
+    "stop" : 1675983241035,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c8d19349cad29427",
+  "name" : "test  home number input for invalid values -- @1.10 ",
+  "time" : {
+    "start" : 1675983524331,
+    "stop" : 1675983524502,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1f8110ff77b93977",
+  "name" : "change the page language to arabic and test first name input in the valid case",
+  "time" : {
+    "start" : 1675983410792,
+    "stop" : 1675983411949,
+    "duration" : 1157
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "c1a819bb27f3f144",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.12 ",
+  "time" : {
+    "start" : 1675983476188,
+    "stop" : 1675983476317,
+    "duration" : 129
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "143de9d8c1d53ea7",
+  "name" : "Family name field test with valid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983241036,
+    "stop" : 1675983241138,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d928b5daaebedf9b",
+  "name" : "Mobile phone field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983251005,
+    "stop" : 1675983251597,
+    "duration" : 592
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "fff4287b836ccb2c",
+  "name" : "Mobile phone field test with invalid values to test \"missing numbers\" alert -- @1.1 ",
+  "time" : {
+    "start" : 1675983247925,
+    "stop" : 1675983248605,
+    "duration" : 680
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1c94b76935c78365",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.10 ",
+  "time" : {
+    "start" : 1675983262665,
+    "stop" : 1675983262854,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "96cde533c54973fa",
+  "name" : "test  Postal Code input for invalid values -- @1.28 ",
+  "time" : {
+    "start" : 1675983519830,
+    "stop" : 1675983520016,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "7b5dfdb29d0040eb",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.38 ",
+  "time" : {
+    "start" : 1675983479950,
+    "stop" : 1675983480121,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1b57c23412b45eac",
+  "name" : "test  home number input for invalid values -- @1.38 ",
+  "time" : {
+    "start" : 1675983529313,
+    "stop" : 1675983529483,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "9ad4dfbb99f57571",
+  "name" : "First name field test with valid values -- @1.1 ",
+  "time" : {
+    "start" : 1675983232952,
+    "stop" : 1675983233050,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a939f90e757082bf",
+  "name" : "First name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.27 ",
+  "time" : {
+    "start" : 1675983230632,
+    "stop" : 1675983230751,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b91db429cd9b2d81",
+  "name" : "Land-line phone field test with invalid values to test \"missing numbers\" alert -- @1.3 ",
+  "time" : {
+    "start" : 1675983506809,
+    "stop" : 1675983507551,
+    "duration" : 742
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "80f750c9141e1739",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.9 ",
+  "time" : {
+    "start" : 1675983262485,
+    "stop" : 1675983262664,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d33fe8811f245bed",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.13 ",
+  "time" : {
+    "start" : 1675983243445,
+    "stop" : 1675983243625,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1ceeedec5d5cd3d6",
+  "name" : "Family name field test with invalid values to test the alert \"only numbers and special characters allowed\" message -- @1.12 ",
+  "time" : {
+    "start" : 1675983235403,
+    "stop" : 1675983235572,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "28486102277bfe8d",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.1 ",
+  "time" : {
+    "start" : 1675983510186,
+    "stop" : 1675983510438,
+    "duration" : 252
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "10f98e4d61ffb4cc",
+  "name" : "I.D. field test with invalid values to test the alert \"not correct\" message -- @1.14 ",
+  "time" : {
+    "start" : 1675983243626,
+    "stop" : 1675983243794,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4965ca694a914f9f",
+  "name" : "First name field test with valid values -- @1.2 ",
+  "time" : {
+    "start" : 1675983233052,
+    "stop" : 1675983233160,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8f43f607405f212",
+  "name" : "Email field test with valid values -- @1.9 ",
+  "time" : {
+    "start" : 1675983265240,
+    "stop" : 1675983265360,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b51f7988ac9f1dcb",
+  "name" : "Email field test with invalid values to test \"incorrect feild\" alert -- @1.11 ",
+  "time" : {
+    "start" : 1675983262855,
+    "stop" : 1675983263041,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8c43a5ccf5815b10",
+  "name" : "test  home number input for invalid values -- @1.3 ",
+  "time" : {
+    "start" : 1675983523087,
+    "stop" : 1675983523260,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "53d36cdede6b5976",
+  "name" : "test  Postal Code input for invalid values -- @1.23 ",
+  "time" : {
+    "start" : 1675983518953,
+    "stop" : 1675983519137,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "3b96f6d0f5fdcfd5",
+  "name" : "test  home number input for invalid values -- @1.21 ",
+  "time" : {
+    "start" : 1675983526217,
+    "stop" : 1675983526396,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]
